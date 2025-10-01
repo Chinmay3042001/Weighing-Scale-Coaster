@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SP720ABTG'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "SP720ABTG" (!) = "", "SOIC127P600X175-16N", "Small Outline Packages", "576-SP720ABTG", "https://www.mouser.co.uk/ProductDetail/Littelfuse/SP720ABTG?qs=ODlIKnK5hgf4p%2FGWp9TOCQ%3D%3D", "LITTELFUSE - SP720ABTG - DIODE, TVS, 14CH, 30V, SOIC16", "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp720_datasheet.pdf.pdf", "1.75 mm"
+END_PART
+
+END.

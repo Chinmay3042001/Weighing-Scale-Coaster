@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=SP720ABTG
+PartCategory=Diode
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2018-03-11 19:09:53
+Downloaded=2025-09-27 03:17:55
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SP720ABTG
+D LITTELFUSE - SP720ABTG - DIODE, TVS, 14CH, 30V, SOIC16
+K
+F http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp720_datasheet.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.SP720ABTG :1 ;LITTELFUSE - SP720ABTG - DIODE, TVS, 14CH, 30V, SOIC16
+SOIC127P600X175-16N
+*STM D
+*NGS
+*PLB 1="IN_1" 2="IN_2" 3="IN_3" 4="IN_4" 5="IN_5" 6="IN_6" 7="IN_7" 8="V-" 9="IN_8" 10="IN_9" 11="IN_10" 12="IN_11" 13="IN_12" 14="IN_13" 15="IN_14" 16="V+"
+*MXP 16
+*DFN SP720ABTG
+~!Mouser Part Number (576-SP720ABTG)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/SP720ABTG?qs=ODlIKnK5hgf4p%2FGWp9TOCQ%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (SP720ABTG)
+~!Link Datasheet (http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp720_datasheet.pdf.pdf)
+~!Height (1.75mm)
+~!3D_Model (SP720ABTG)
+SP720ABTG
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 
