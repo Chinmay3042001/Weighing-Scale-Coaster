@@ -11665,7 +11665,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "1u"
 			(at 365.76 194.31 0)
 			(effects
 				(font
@@ -13958,7 +13958,7 @@
 				)
 			)
 		)
-		(property "Value" "200K"
+		(property "Value" "470K"
 			(at 362.712 186.944 0)
 			(effects
 				(font
