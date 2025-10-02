@@ -1,0 +1,16 @@
+.74HC74D_653 :1 ;Dual D-type flip-flop
+SOIC127P600X175-14N
+*STM IC
+*NGS
+*PLB 1="1'RD'" 2="1D" 3="1CP" 4="1'SD'" 5="1Q" 6="1'Q'" 7="GND" 8="2'Q'" 9="2Q" 10="2'SD'" 11="2CP" 12="2D" 13="2'RD'" 14="VCC"
+*MXP 14
+*DFN 74HC74D_653
+~!Mouser Part Number (771-74HC74D-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/74HC74D653?qs=P62ublwmbi8VnJ1KG1%2FblQ%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74HC74D,653)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/74HC_HCT74.pdf)
+~!Height (1.75mm)
+~!3D_Model (74HC74D,653)
+"74HC74D_653"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 

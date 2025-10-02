@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74HC74D_653'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "74HC74D,653" (!) = "", "SOIC127P600X175-14N", "Small Outline Packages", "771-74HC74D-T", "https://www.mouser.co.uk/ProductDetail/Nexperia/74HC74D653?qs=P62ublwmbi8VnJ1KG1%2FblQ%3D%3D", "Dual D-type flip-flop", "https://assets.nexperia.com/documents/data-sheet/74HC_HCT74.pdf", "1.75 mm"
+END_PART
+
+END.

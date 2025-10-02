@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC74D,653
+D Dual D-type flip-flop
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT74.pdf
+$ENDCMP
+#
+#End Doc Library

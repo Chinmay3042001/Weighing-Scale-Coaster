@@ -1,0 +1,180 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "74HC74D_653"
+   (description "Dual D-type flip-flop")
+   (family "ANA")
+   (package "SOIC127P600X175-14N")
+   (attribute "Datasheet Link" "https://assets.nexperia.com/documents/data-sheet/74HC_HCT74.pdf")
+   (attribute "Geometry.Height" "1.75mm")
+   (attribute "Mouser Part Number" "771-74HC74D-T")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/74HC74D653?qs=P62ublwmbi8VnJ1KG1%2FblQ%3D%3D")
+   (attribute "Manufacturer_Name" "Nexperia")
+   (attribute "Manufacturer_Part_Number" "74HC74D,653")
+   (gate
+    (symbol "74HC74D_653")
+    (pin "1$RD$" 1 PS)
+    (pin "1D" 2 PS)
+    (pin "1CP" 3 PS)
+    (pin "1$SD$" 4 PS)
+    (pin "1Q" 5 PS)
+    (pin "1$Q$" 6 PS)
+    (pin "GND" 7 PS)
+    (pin "VCC" 14 PS)
+    (pin "2$RD$" 13 PS)
+    (pin "2D" 12 PS)
+    (pin "2CP" 11 PS)
+    (pin "2$SD$" 10 PS)
+    (pin "2Q" 9 PS)
+    (pin "2$Q$" 8 PS)
+   )
+  )
+  (symbol "74HC74D_653"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOIC127P600X175-14N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.75 4.625)
+      (pt 3.75 4.625)
+      (pt 3.75 -4.625)
+      (pt -3.75 -4.625)
+      (pt -3.75 4.625))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.95 4.325)
+      (pt 1.95 4.325)
+      (pt 1.95 -4.325)
+      (pt -1.95 -4.325)
+      (pt -1.95 4.325))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.95 3.055)
+      (pt -0.68 4.325))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 4.325)
+      (pt 1.6 4.325)
+      (pt 1.6 -4.325)
+      (pt -1.6 -4.325)
+      (pt -1.6 4.325))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.5 4.51)
+      (pt -1.95 4.51))))
+   (leg 1 (pt -2.725 3.81) (padstack 0))
+   (leg 2 (pt -2.725 2.54) (padstack 0))
+   (leg 3 (pt -2.725 1.27) (padstack 0))
+   (leg 4 (pt -2.725 0) (padstack 0))
+   (leg 5 (pt -2.725 -1.27) (padstack 0))
+   (leg 6 (pt -2.725 -2.54) (padstack 0))
+   (leg 7 (pt -2.725 -3.81) (padstack 0))
+   (leg 8 (pt 2.725 -3.81) (padstack 0))
+   (leg 9 (pt 2.725 -2.54) (padstack 0))
+   (leg 10 (pt 2.725 -1.27) (padstack 0))
+   (leg 11 (pt 2.725 0) (padstack 0))
+   (leg 12 (pt 2.725 1.27) (padstack 0))
+   (leg 13 (pt 2.725 2.54) (padstack 0))
+   (leg 14 (pt 2.725 3.81) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.7 1.55 0 0 0))
+   )
+   (model "74HC74D,653.stp"
+    (euler 90 0 -90)
+    (offset 6.699999809265137 3.619999885559082 -4.239999771118164)
+   )
+  )
+ )
+)
