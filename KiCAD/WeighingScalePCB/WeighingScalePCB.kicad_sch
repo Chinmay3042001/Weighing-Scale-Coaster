@@ -107,191 +107,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "74xGxx:74AHC1G08"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -2.54 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "74AHC1G08"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Single AND Gate, Low-Voltage CMOS"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Single Gate AND LVC CMOS"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT* SG-*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "74AHC1G08_0_1"
-				(arc
-					(start 0 5.08)
-					(mid 5.0579 0)
-					(end 0 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -5.08) (xy -7.62 -5.08) (xy -7.62 5.08) (xy 0 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "74AHC1G08_1_1"
-				(pin input line
-					(at -15.24 2.54 0)
-					(length 7.62)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -15.24 -2.54 0)
-					(length 7.62)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 10.16 270)
-					(length 5.08)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -10.16 90)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 12.7 0 180)
-					(length 7.62)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "74xGxx:74LVC1G04"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -446,6 +261,191 @@
 					)
 				)
 				(pin output inverted
+					(at 12.7 0 180)
+					(length 7.62)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "74xGxx:74LVC1G08"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -5.08 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "74LVC1G08"
+				(at 7.62 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Single AND Gate, Low-Voltage CMOS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Single Gate AND LVC CMOS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23* Texas?R-PDSO-G5?DCK* Texas?R-PDSO-N5?DRL* Texas?X2SON*0.8x0.8mm*P0.48mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "74LVC1G08_0_1"
+				(arc
+					(start 0 5.08)
+					(mid 5.0579 0)
+					(end 0 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -5.08) (xy -7.62 -5.08) (xy -7.62 5.08) (xy 0 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "74LVC1G08_1_1"
+				(pin input line
+					(at -15.24 2.54 0)
+					(length 7.62)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 -2.54 0)
+					(length 7.62)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 10.16 270)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -10.16 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
 					(at 12.7 0 180)
 					(length 7.62)
 					(name "~"
@@ -6447,6 +6447,12 @@
 		(uuid "5cde3efa-073c-45f5-92c2-2b4a1a66f449")
 	)
 	(junction
+		(at 328.93 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5fcde36f-52ab-44b5-b4a9-0b7ee81a640d")
+	)
+	(junction
 		(at 346.71 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6501,10 +6507,22 @@
 		(uuid "93e6be9e-6190-432d-a0de-7740db36b631")
 	)
 	(junction
+		(at 234.95 214.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "996c6c26-507c-4ed0-9a6f-d5c3c473ad95")
+	)
+	(junction
 		(at 156.21 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "99acdef8-5736-425f-bb67-4c1d1ae47fe1")
+	)
+	(junction
+		(at 231.14 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9baa0ab6-6a14-4d7c-a412-1c36d1af3e89")
 	)
 	(junction
 		(at 368.3 187.96)
@@ -6746,7 +6764,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 50.8) (xy 198.12 50.8)
+			(xy 196.85 52.07) (xy 217.17 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6866,6 +6884,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 214.63) (xy 234.95 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b2c69f2-df26-4e69-8153-c7ecf2e0b99d")
+	)
+	(wire
+		(pts
 			(xy 339.09 62.23) (xy 351.79 62.23)
 		)
 		(stroke
@@ -6936,6 +6964,16 @@
 	)
 	(wire
 		(pts
+			(xy 374.65 143.51) (xy 388.62 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2543752b-fb67-468f-9eca-b6e981fbc630")
+	)
+	(wire
+		(pts
 			(xy 162.56 138.43) (xy 162.56 137.16)
 		)
 		(stroke
@@ -6953,16 +6991,6 @@
 			(type default)
 		)
 		(uuid "266bb037-fa73-4e7e-9f8e-14f289277c3a")
-	)
-	(wire
-		(pts
-			(xy 198.12 52.07) (xy 217.17 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "268a0895-16b3-4589-83b8-4e2cc7038715")
 	)
 	(wire
 		(pts
@@ -7053,6 +7081,16 @@
 			(type default)
 		)
 		(uuid "2f4b0940-844d-484c-ba24-751dff00e8b6")
+	)
+	(wire
+		(pts
+			(xy 231.14 179.07) (xy 231.14 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f62d8a2-4076-4661-bcd0-78955f22450b")
 	)
 	(wire
 		(pts
@@ -7203,16 +7241,6 @@
 			(type default)
 		)
 		(uuid "3b93a290-6db8-4b61-b122-fc4da4e87336")
-	)
-	(wire
-		(pts
-			(xy 199.39 87.63) (xy 218.44 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ba0350c-ab85-4c88-a323-613583cb7294")
 	)
 	(wire
 		(pts
@@ -7616,6 +7644,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 176.53) (xy 231.14 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60339c11-f9f5-49a6-9a2b-d24242443fbc")
+	)
+	(wire
+		(pts
 			(xy 354.33 189.23) (xy 358.14 189.23)
 		)
 		(stroke
@@ -7723,16 +7761,6 @@
 			(type default)
 		)
 		(uuid "6c22bbe2-b257-4a50-bf55-99a20360319f")
-	)
-	(wire
-		(pts
-			(xy 199.39 86.36) (xy 199.39 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c525f91-f8ef-4bba-b704-dcd927225c6e")
 	)
 	(wire
 		(pts
@@ -7936,6 +7964,16 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 176.53) (xy 231.14 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c8040ea-6ad0-4bf0-ab52-bd656b597ba6")
+	)
+	(wire
+		(pts
 			(xy 156.21 33.02) (xy 156.21 36.83)
 		)
 		(stroke
@@ -7963,16 +8001,6 @@
 			(type default)
 		)
 		(uuid "7e50e10b-3ddf-4978-be61-73adb9e2bee5")
-	)
-	(wire
-		(pts
-			(xy 303.53 217.17) (xy 302.26 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e9abb6e-e051-4c7c-a33f-d8d1583008dd")
 	)
 	(wire
 		(pts
@@ -8206,7 +8234,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 86.36) (xy 199.39 86.36)
+			(xy 196.85 87.63) (xy 218.44 87.63)
 		)
 		(stroke
 			(width 0)
@@ -8253,6 +8281,16 @@
 			(type default)
 		)
 		(uuid "a0066f4f-ce70-4353-86fa-c6a8644331bc")
+	)
+	(wire
+		(pts
+			(xy 228.6 179.07) (xy 231.14 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a105e554-c73c-4043-8e01-9da68f43770d")
 	)
 	(wire
 		(pts
@@ -8383,6 +8421,16 @@
 			(type default)
 		)
 		(uuid "ae82dd3c-8f64-48f5-8261-294c6bb2d32f")
+	)
+	(wire
+		(pts
+			(xy 361.95 135.89) (xy 328.93 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aed0b57c-2f4b-40a6-9517-61e3e2241c81")
 	)
 	(wire
 		(pts
@@ -8696,6 +8744,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 214.63) (xy 234.95 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8abd5b9-9ef1-4c29-bd5f-6736f865b3a8")
+	)
+	(wire
+		(pts
 			(xy 123.19 45.72) (xy 127 45.72)
 		)
 		(stroke
@@ -8733,6 +8791,16 @@
 			(type default)
 		)
 		(uuid "cb5d68ee-dd36-4b1c-b604-b20f0fa86219")
+	)
+	(wire
+		(pts
+			(xy 328.93 133.35) (xy 328.93 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb7b1b49-f8a4-4642-a062-ac474584fd84")
 	)
 	(wire
 		(pts
@@ -8803,6 +8871,16 @@
 			(type default)
 		)
 		(uuid "d2a8a6ff-3dc4-4078-a4fe-11d47538ebb2")
+	)
+	(wire
+		(pts
+			(xy 232.41 212.09) (xy 234.95 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6c59b0a-6668-4804-b22b-dc579a02fd0f")
 	)
 	(wire
 		(pts
@@ -8916,16 +8994,6 @@
 	)
 	(wire
 		(pts
-			(xy 303.53 218.44) (xy 302.26 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e48067be-f443-4f3b-b182-894900058e9a")
-	)
-	(wire
-		(pts
 			(xy 83.82 149.86) (xy 83.82 193.04)
 		)
 		(stroke
@@ -8933,16 +9001,6 @@
 			(type default)
 		)
 		(uuid "e4b78292-3e8a-4d90-b784-fbd36050701d")
-	)
-	(wire
-		(pts
-			(xy 356.87 142.24) (xy 356.87 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5321950-5a3d-4722-a307-ddf2cac19ead")
 	)
 	(wire
 		(pts
@@ -8956,7 +9014,7 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 143.51) (xy 356.87 143.51)
+			(xy 341.63 143.51) (xy 349.25 143.51)
 		)
 		(stroke
 			(width 0)
@@ -9096,6 +9154,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 212.09) (xy 234.95 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f46b550e-7e2e-45e6-88cf-66b4585c0f3c")
+	)
+	(wire
+		(pts
 			(xy 165.1 74.93) (xy 165.1 85.09)
 		)
 		(stroke
@@ -9113,16 +9181,6 @@
 			(type default)
 		)
 		(uuid "f5ac73a9-90e9-40d4-a498-176364a67909")
-	)
-	(wire
-		(pts
-			(xy 302.26 217.17) (xy 302.26 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6291d3a-2d0d-4969-bde1-964f7eb254ba")
 	)
 	(wire
 		(pts
@@ -9166,17 +9224,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 50.8) (xy 198.12 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fca25887-9213-4dfb-bbfd-6d881eb3ca85")
-	)
-	(wire
-		(pts
-			(xy 196.85 50.8) (xy 196.85 86.36)
+			(xy 196.85 52.07) (xy 196.85 87.63)
 		)
 		(stroke
 			(width 0)
@@ -9223,6 +9271,16 @@
 			(justify right bottom)
 		)
 		(uuid "324d0130-2d86-4e57-87a2-db25850a1546")
+	)
+	(label "buzzer clk"
+		(at 349.25 153.67 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3e7daa02-88be-414b-a16c-01cd2cebea89")
 	)
 	(label "buzzer clk"
 		(at 285.75 180.34 0)
@@ -9285,7 +9343,7 @@
 		(uuid "c766bfe9-33b6-48d5-bdca-087b94816315")
 	)
 	(label "buzzer trigger"
-		(at 356.87 142.24 0)
+		(at 388.62 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12554,7 +12612,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 303.53 218.44 0)
+		(at 303.53 217.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12563,7 +12621,7 @@
 		(fields_autoplaced yes)
 		(uuid "3b46d7f7-a28c-4fc0-bd38-268523791de7")
 		(property "Reference" "#PWR036"
-			(at 303.53 224.79 0)
+			(at 303.53 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12572,7 +12630,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 303.53 223.52 0)
+			(at 303.53 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12580,7 +12638,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 303.53 218.44 0)
+			(at 303.53 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12589,7 +12647,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 303.53 218.44 0)
+			(at 303.53 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12598,7 +12656,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 303.53 218.44 0)
+			(at 303.53 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12888,6 +12946,83 @@
 		)
 	)
 	(symbol
+		(lib_id "74xGxx:74LVC1G79")
+		(at 361.95 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4b8f0e06-0761-469b-a9b9-ad757f83e368")
+		(property "Reference" "U4"
+			(at 375.92 136.8411 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74LVC1G79"
+			(at 375.92 139.3811 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 361.95 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
+			(at 361.95 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single D Flip-Flop, Low-Voltage CMOS"
+			(at 361.95 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3f2c451-62a7-4700-9717-fa7125da8ad1")
+		)
+		(pin "3"
+			(uuid "04209c91-575f-4ad3-9f01-b59299321ae2")
+		)
+		(pin "2"
+			(uuid "41c3b828-757d-42af-a68a-5ed79e7a449a")
+		)
+		(pin "5"
+			(uuid "a09889c6-96bb-4fb0-958b-c5d449f915ff")
+		)
+		(pin "4"
+			(uuid "c3d620ab-b96a-458c-9198-43bf22569f28")
+		)
+		(instances
+			(project "WeighingScalePCB"
+				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 327.66 109.22 0)
 		(unit 1)
@@ -13086,6 +13221,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 361.95 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "580fc9d9-9603-45d9-99c7-3dbfab79eae5")
+		(property "Reference" "#PWR052"
+			(at 361.95 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 361.95 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 361.95 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 361.95 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 361.95 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d5084e1-a0a9-4cd4-bb9d-4c06fe2378a1")
+		)
+		(instances
+			(project "WeighingScalePCB"
+				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
+					(reference "#PWR052")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 378.46 156.21 0)
 		(unit 1)
@@ -13145,83 +13346,6 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "#PWR050")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "74xGxx:74AHC1G08")
-		(at 328.93 143.51 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5e94ed39-16bd-4331-b82c-5da72bd77022")
-		(property "Reference" "U4"
-			(at 340.36 136.8411 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "74AHC1G08"
-			(at 340.36 139.3811 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 328.93 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
-			(at 328.93 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single AND Gate, Low-Voltage CMOS"
-			(at 328.93 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8da15836-139f-46df-870e-a4d1cd34d38a")
-		)
-		(pin "1"
-			(uuid "2778da9d-9c98-4e16-86bd-91b8ab744a93")
-		)
-		(pin "4"
-			(uuid "7c2f269e-e7af-4967-8d8e-a80f66d2ff52")
-		)
-		(pin "3"
-			(uuid "692d1aeb-8b65-4e43-99a5-4fbac8b79f92")
-		)
-		(pin "5"
-			(uuid "4f70aaa8-78a3-48d4-9828-1126d0389c81")
-		)
-		(instances
-			(project ""
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -15492,6 +15616,83 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "#PWR046")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "74xGxx:74LVC1G08")
+		(at 328.93 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a355d9a7-1f2c-4391-bd1c-808d240bc80a")
+		(property "Reference" "U9"
+			(at 340.36 136.8411 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74LVC1G08"
+			(at 340.36 139.3811 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 328.93 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf"
+			(at 328.93 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single AND Gate, Low-Voltage CMOS"
+			(at 328.93 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "da901054-eae6-4e7e-bf47-083073f12ce5")
+		)
+		(pin "3"
+			(uuid "682ef62d-8ac8-4e6a-8fb1-044ea1257f58")
+		)
+		(pin "1"
+			(uuid "2e9c52a6-0a12-4417-8b71-5f7c826df25d")
+		)
+		(pin "2"
+			(uuid "4094c102-7503-444e-8354-5b6047759dfd")
+		)
+		(pin "4"
+			(uuid "522d0431-cbab-4352-bb69-035f0305f90f")
+		)
+		(instances
+			(project ""
+				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -17803,6 +18004,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 231.14 181.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "efb52673-38d6-4a3e-ba8d-28b830172cdb")
+		(property "Reference" "#PWR053"
+			(at 231.14 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 231.14 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 231.14 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b9632fb6-7537-4264-a950-e3a267555c81")
+		)
+		(instances
+			(project "WeighingScalePCB"
+				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 205.74 184.15 0)
 		(unit 1)
@@ -18237,6 +18504,72 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 234.95 217.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe00a8aa-9c11-4130-9709-558d8640fe08")
+		(property "Reference" "#PWR054"
+			(at 234.95 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 234.95 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 234.95 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 234.95 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cc404536-b393-4af5-bb19-e8794ce2c0aa")
+		)
+		(instances
+			(project "WeighingScalePCB"
+				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
