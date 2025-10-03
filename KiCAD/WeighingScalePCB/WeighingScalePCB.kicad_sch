@@ -5304,7 +5304,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Timer:NE555D"
+		(symbol "Timer:LMC555xMM"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5317,7 +5317,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "NE555D"
+			(property "Value" "LMC555xMM"
 				(at 2.54 8.89 0)
 				(effects
 					(font
@@ -5326,7 +5326,16 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+				(at 16.51 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lmc555.pdf"
 				(at 21.59 -10.16 0)
 				(effects
 					(font
@@ -5335,16 +5344,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf"
-				(at 21.59 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Precision Timers, 555 compatible, SOIC-8"
+			(property "Description" "CMOS Timer, 555 compatible, VSSOP-8"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5362,7 +5362,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*"
+			(property "ki_fp_filters" "*VSSOP*3x3mm*P0.65mm*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5371,7 +5371,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "NE555D_0_0"
+			(symbol "LMC555xMM_0_0"
 				(pin power_in line
 					(at 0 10.16 270)
 					(length 2.54)
@@ -5409,7 +5409,7 @@
 					)
 				)
 			)
-			(symbol "NE555D_0_1"
+			(symbol "LMC555xMM_0_1"
 				(rectangle
 					(start -8.89 -7.62)
 					(end 8.89 7.62)
@@ -5433,7 +5433,7 @@
 					)
 				)
 			)
-			(symbol "NE555D_1_1"
+			(symbol "LMC555xMM_1_1"
 				(pin input line
 					(at -12.7 5.08 0)
 					(length 3.81)
@@ -6387,12 +6387,6 @@
 		(uuid "96df9a33-cbb6-4468-9fdc-29d025728bc0")
 	)
 	(junction
-		(at 334.01 175.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "059f2288-84b9-47b8-8d24-3b2681663fd7")
-	)
-	(junction
 		(at 102.87 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6415,6 +6409,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f8b975d-dded-4c4a-b9ba-2943c529dcb5")
+	)
+	(junction
+		(at 334.01 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22dfec75-e3b5-4656-a06d-c2c13b51fc63")
 	)
 	(junction
 		(at 208.28 187.96)
@@ -12818,94 +12818,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Timer:NE555D")
-		(at 273.05 185.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "499ea582-1f78-45f5-a148-50aa5968d374")
-		(property "Reference" "U9"
-			(at 275.3176 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "NE555D"
-			(at 275.3176 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 294.64 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf"
-			(at 294.64 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Precision Timers, 555 compatible, SOIC-8"
-			(at 273.05 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "220b2543-ab38-4002-954d-d16b75606887")
-		)
-		(pin "7"
-			(uuid "c1de0315-f679-4cf5-860e-ec7ee4662f0a")
-		)
-		(pin "3"
-			(uuid "03fc6163-1f45-4725-b69b-e3de2d526cb1")
-		)
-		(pin "4"
-			(uuid "ed6c4262-98f7-4914-9f96-2d567ec87526")
-		)
-		(pin "5"
-			(uuid "9c4d182e-9938-4832-87ed-4130cca0d1ac")
-		)
-		(pin "2"
-			(uuid "2358bd6b-52ec-4386-9854-33ce730535b9")
-		)
-		(pin "1"
-			(uuid "0fd40b51-d01c-4c5f-a3a4-53c6bc4007d6")
-		)
-		(pin "8"
-			(uuid "903b21e3-7520-4c73-ab4a-d209a1753476")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:PESD3V3U1UL")
 		(at 368.3 195.58 270)
 		(unit 1)
@@ -14759,94 +14671,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Timer:NE555D")
-		(at 334.01 185.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d6149da-c3f9-4014-bfa4-2446a8f3f7d5")
-		(property "Reference" "U3"
-			(at 336.2776 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "NE555D"
-			(at 336.2776 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 355.6 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf"
-			(at 355.6 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Precision Timers, 555 compatible, SOIC-8"
-			(at 334.01 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "0bc4900c-02f8-47d6-9f99-d4e94aba5cc4")
-		)
-		(pin "7"
-			(uuid "4fcd1415-9559-4cf5-b9e6-ee1728aeb4d4")
-		)
-		(pin "3"
-			(uuid "8d4c50de-8644-4061-9b3d-5fb36e95dbdf")
-		)
-		(pin "4"
-			(uuid "c5e89fb2-3490-4256-8fa6-89588fec4698")
-		)
-		(pin "5"
-			(uuid "3152d0bb-1f38-4993-b737-70e19dd55e95")
-		)
-		(pin "2"
-			(uuid "e6434007-2937-46ba-8f47-5521d6246f8d")
-		)
-		(pin "1"
-			(uuid "80fa11a2-da7e-48a9-affc-af1a8f905143")
-		)
-		(pin "8"
-			(uuid "21b1c549-10ef-4d37-ba58-0ca40395e268")
-		)
-		(instances
-			(project ""
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 218.44 91.44 0)
 		(unit 1)
@@ -14978,6 +14802,94 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Timer:LMC555xMM")
+		(at 334.01 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "91495cd7-7923-4536-8464-9e1691ed8b07")
+		(property "Reference" "U3"
+			(at 336.2776 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LMC555xMM"
+			(at 336.2776 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+			(at 350.52 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lmc555.pdf"
+			(at 355.6 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CMOS Timer, 555 compatible, VSSOP-8"
+			(at 334.01 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "55606f73-e361-469f-8405-cddc6a13fd8a")
+		)
+		(pin "7"
+			(uuid "bde57328-b003-442c-887a-6bd8037baffb")
+		)
+		(pin "3"
+			(uuid "6e5f934d-a3f9-4a7a-909c-e350254c0e90")
+		)
+		(pin "4"
+			(uuid "2cb4c32f-c4a6-489b-a55b-76b102d1a02d")
+		)
+		(pin "5"
+			(uuid "cae9a49c-97c9-4973-96f3-d4d47027ba1a")
+		)
+		(pin "2"
+			(uuid "d23f268b-84d1-4dc1-a33d-d896a17a7e5f")
+		)
+		(pin "1"
+			(uuid "18fd6070-1989-4ef1-b5bd-8a71bbbd6534")
+		)
+		(pin "8"
+			(uuid "92e05cab-5a88-4059-bf42-b06aeddbffdd")
+		)
+		(instances
+			(project "WeighingScalePCB"
+				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -17674,6 +17586,94 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "T2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Timer:LMC555xMM")
+		(at 273.05 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed00502f-ae5b-40b8-9733-c51dc41bee48")
+		(property "Reference" "U10"
+			(at 275.3176 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LMC555xMM"
+			(at 275.3176 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+			(at 289.56 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lmc555.pdf"
+			(at 294.64 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CMOS Timer, 555 compatible, VSSOP-8"
+			(at 273.05 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "8e861846-8756-4f5c-99e8-5af6209c5211")
+		)
+		(pin "7"
+			(uuid "5a71d244-2c18-49f6-90b7-871a549adaff")
+		)
+		(pin "3"
+			(uuid "49f97061-b4b6-4621-8755-0637a58e4ee9")
+		)
+		(pin "4"
+			(uuid "4f418b38-2505-4840-8d58-7bb1d4f73988")
+		)
+		(pin "5"
+			(uuid "480f65b3-c0b2-4ee8-b417-decc013b2195")
+		)
+		(pin "2"
+			(uuid "1813a714-ea17-4ffe-a01b-e6a5e3423d7e")
+		)
+		(pin "1"
+			(uuid "d610871a-51a9-466e-afc9-1eb2a9d30149")
+		)
+		(pin "8"
+			(uuid "5ae6667c-2635-4e22-948d-19e8b881a8b7")
+		)
+		(instances
+			(project ""
+				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
+					(reference "U10")
 					(unit 1)
 				)
 			)
