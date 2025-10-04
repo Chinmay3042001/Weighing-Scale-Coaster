@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SFV14R-3STBE1HLF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-09-02-11:55:42)
+    (mountForm default
+        (footprintRef "SFV14R3STBE1HLF")
+        (spec "System")
+    )
+)

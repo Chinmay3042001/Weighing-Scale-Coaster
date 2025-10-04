@@ -1,0 +1,9 @@
+Manufacturer=Amphenol Communications Solutions
+PartNumber=SFV14R-3STBE1HLF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=20
+Version=2.4
+Released=2024-09-02 11:55:42
+Downloaded=2025-10-04 14:15:26
+3D=Y

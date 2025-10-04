@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SFV14R_3STBE1HLF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communications Solutions", "SFV14R-3STBE1HLF" (!) = "", "SFV14R3STBE1HLF", "Other", "", "", "0.50mm Flex Connector, SFV-R Series, 14 Position, Bottom Side Contact, Side Entry Surface Mount ZIF Connector, Halogen Free, Lead Free with Cable-Lock, Gold Flash", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10171071.pdf", "2 mm"
+END_PART
+
+END.
