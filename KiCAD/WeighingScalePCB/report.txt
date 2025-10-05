@@ -1,0 +1,522 @@
+Info: Processing symbol 'D6:Diode_SMD:D_SOD-882'.
+Info: Processing symbol 'Q3:SOT95P230X110-3N'.
+Info: Processing symbol 'Q2:SOT95P230X110-3N'.
+Info: Processing symbol 'JP3:'.
+Info: Processing symbol 'JP2:'.
+Info: Processing symbol 'J5:'.
+Info: Processing symbol 'J4:'.
+Info: Processing symbol 'J3:'.
+Info: Processing symbol 'J2:'.
+Info: Processing symbol 'J1:Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical'.
+Info: Processing symbol 'IC2:SOT95P240X115-3N'.
+Info: Processing symbol 'IC1:SOIC127P600X175-8N'.
+Info: Processing symbol 'FB1:'.
+Info: Processing symbol 'D7:Diode_SMD:D_SOD-882'.
+Info: Processing symbol 'Q4:SOT95P230X110-3N'.
+Info: Processing symbol 'D5:Diode_SMD:D_SOD-882'.
+Info: Processing symbol 'D4:Diode_SMD:D_SOD-882'.
+Info: Processing symbol 'D3:Diode_SMD:D_SOD-882'.
+Info: Processing symbol 'D2:Diode_SMD:D_SOD-523'.
+Info: Processing symbol 'D1:SOIC127P600X175-16N'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0603_1608Metric'.
+Info: Total warnings: 0, errors: 23.
+Info: Processing symbol 'U10:Package_SO:VSSOP-8_3x3mm_P0.65mm'.
+Info: Processing symbol 'U9:'.
+Info: Processing symbol 'U8:'.
+Info: Processing symbol 'U7:'.
+Info: Processing symbol 'U6:TTP223-BA6:SOT23-6'.
+Info: Processing symbol 'U5:TTP223-BA6:SOT23-6'.
+Info: Processing symbol 'U4:'.
+Info: Processing symbol 'U3:Package_SO:VSSOP-8_3x3mm_P0.65mm'.
+Info: Processing symbol 'U2:Package_SO:SOIC-16_3.9x9.9mm_P1.27mm'.
+Info: Processing symbol 'U1:Seeed Studio XIAO Series Library:XIAO-ESP32C6-SMD'.
+Info: Processing symbol 'T2:0my_project:Touch-Pad_10mm'.
+Info: Processing symbol 'T1:0my_project:Touch-Pad_10mm'.
+Info: Processing symbol 'Q5:SOT95P230X110-3N'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0603_1608Metric'.
+Added R12 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Updated R11 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R11 footprint filters to 'R_*'.
+Connected R11 pin 2 to Net-(Q2-D).
+Connected R11 pin 1 to /V_BAT.
+Updated C2 sheetname to '/'.
+Updated R11 fields.
+Changed REF** reference designator to R12.
+Changed R12 value from R_0603_1608Metric to 470K.
+Updated R12 symbol association from  to /ca14071e-0ef1-485e-b9a9-79c636c3573b.
+Updated R12 fields.
+Updated R12 sheetname to '/'.
+Updated R12 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R11 sheetname to '/'.
+Connected R12 pin 2 to Net-(U3-DIS).
+Updated R11 symbol association from  to /08972df6-7e03-44b6-97fd-1cea297c2682.
+Changed R11 value from R_0603_1608Metric to 200K.
+Changed REF** reference designator to R11.
+Added R11 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Updated C2 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Connected R10 pin 2 to GND.
+Connected R10 pin 1 to Net-(IC2-VOUT).
+Updated R10 footprint filters to 'R_*'.
+Updated R10 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R10 sheetname to '/'.
+Updated R10 fields.
+Updated R10 symbol association from  to /65c2e271-d00b-462e-9bbe-74a6642332e5.
+Updated C2 symbol association from  to /15c6c688-7d66-4066-a3f7-1c821a9f78ed.
+Changed REF** reference designator to R15.
+Added R15 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed C2 value from C_0603_1608Metric to 0.1uF.
+Connected R14 pin 2 to Net-(U10-DIS).
+Connected R14 pin 1 to VCC.
+Updated R14 footprint filters to 'R_*'.
+Updated R14 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R14 sheetname to '/'.
+Updated R14 fields.
+Updated R14 symbol association from  to /2b232625-a9a4-4472-9eee-8667d4661d2a.
+Changed R14 value from R_0603_1608Metric to R_US.
+Changed REF** reference designator to R14.
+Added R14 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Updated R12 footprint filters to 'R_*'.
+Connected R13 pin 1 to Net-(U3-R).
+Connected R13 pin 2 to VCC.
+Updated R13 footprint filters to 'R_*'.
+Updated R13 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R13 sheetname to '/'.
+Updated R13 fields.
+Updated R13 symbol association from  to /2ff1c561-b449-4bf7-8045-efbc3eab1572.
+Changed R13 value from R_0603_1608Metric to 10K.
+Changed REF** reference designator to R13.
+Added R13 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Updated C2 fields.
+Changed REF** reference designator to R10.
+Connected R12 pin 1 to VCC.
+Updated R6 symbol association from  to /2ee88a66-00c3-4d22-8160-877e9331bbea.
+Updated R7 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R7 sheetname to '/'.
+Updated R7 fields.
+Updated R7 symbol association from  to /8e74183b-6168-4067-b5f4-dc225946ee2b.
+Changed R7 value from R_0402_1005Metric to 10K.
+Changed REF** reference designator to R7.
+Added R7 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Connected R6 pin 2 to Net-(U1-GPIO0_A0_D0).
+Connected R6 pin 1 to /V_BAT.
+Updated R6 footprint filters to 'R_*'.
+Updated R6 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R6 sheetname to '/'.
+Updated R6 fields.
+Updated R7 footprint filters to 'R_*'.
+Changed R6 value from R_0603_1608Metric to 200K.
+Changed REF** reference designator to R6.
+Added R6 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Added C3 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Connected R3 pin 1 to Net-(JP3-A).
+Connected R3 pin 2 to VCC.
+Updated R3 footprint filters to 'R_*'.
+Updated R3 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R3 sheetname to '/'.
+Updated R3 fields.
+Added C6 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed R3 value from R_0603_1608Metric to 10K.
+Changed REF** reference designator to R3.
+Connected C2 pin 1 to GND.
+Updated R15 symbol association from  to /f4177b9b-acc1-4b74-9815-78b759312f8a.
+Added R10 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Updated C2 footprint filters to 'C_*'.
+Connected R9 pin 2 to GND.
+Connected R9 pin 1 to Net-(U1-GPIO0_A0_D0).
+Updated R9 footprint filters to 'R_*'.
+Updated R9 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R9 sheetname to '/'.
+Updated R9 fields.
+Updated R9 symbol association from  to /8d816f52-5ba7-43d1-859c-f2a3d01c90de.
+Changed R9 value from R_0603_1608Metric to 200K.
+Changed REF** reference designator to R9.
+Added R9 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed R10 value from R_0603_1608Metric to 1K.
+Connected R8 pin 1 to VCC.
+Connected R8 pin 2 to SDA.
+Updated R8 footprint filters to 'R_*'.
+Updated R8 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R8 sheetname to '/'.
+Updated R8 fields.
+Updated R8 symbol association from  to /e17fc8c3-0de4-4461-ba68-65bfdbee09ab.
+Changed R8 value from R_0402_1005Metric to 10K.
+Changed REF** reference designator to R8.
+Added R8 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Connected C2 pin 2 to Net-(U2-VBG).
+Connected R7 pin 1 to VCC.
+Connected R7 pin 2 to SCL.
+Connected U10 pin 3 to /buzzer clk.
+Removed unused net Net-(U3-C1N).
+Removed unused net Net-(U2-VFB).
+Removed unused net Net-(Q1-C).
+Removed unused net Net-(Q1-B).
+Removed unused net Net-(JP1-B).
+Removed unused net Net-(J4-Pin_2).
+Removed unused net CS_N.
+Removed unused net 3.3V.
+Removed unused net /enable.
+Removed unused net /ble_keep_awake.
+Connected U10 pin 2 to /trigg.
+Connected U10 pin 6 to /trigg.
+Connected U10 pin 1 to Net-(U10-GND).
+Connected U10 pin 7 to Net-(U10-DIS).
+Removed unused net Net-(U3-C1P).
+Connected U10 pin 8 to VCC.
+Connected U10 pin 5 to Net-(U10-CV).
+Connected U10 pin 4 to VCC.
+Updated U10 footprint filters to '*VSSOP*3x3mm*P0.65mm*'.
+Updated U10 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated U10 sheetname to '/'.
+Updated U10 fields.
+Updated U10 symbol association from  to /ed00502f-ae5b-40b8-9733-c51dc41bee48.
+Changed U10 value from VSSOP-8_3x3mm_P0.65mm to LMC555xMM.
+Changed REF** reference designator to U10.
+Added U10 (footprint 'Package_SO:VSSOP-8_3x3mm_P0.65mm').
+Changed REF** reference designator to C1.
+Changed C1 value from C_0603_1608Metric to 0.1uF.
+Removed unused net SO.
+Added C1 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+
+
+Removed unused net unconnected-(U4-BP-Pad4).
+Removed unused net unconnected-(U3-NC-Pad6).
+Removed unused net unconnected-(U1-MTMS-Pad21).
+Removed unused net unconnected-(U1-MTDO-Pad18).
+Removed unused net unconnected-(U1-MTDI-Pad17).
+Removed unused net unconnected-(U1-MTCK-Pad22).
+Removed unused net unconnected-(U1-GND-Pad20).
+Removed unused net unconnected-(U1-BOOT-Pad23).
+Removed unused net unconnected-(U1-5V-Pad14).
+Removed unused net unconnected-(U1-3V3_1-Pad24).
+Updated C1 symbol association from  to /7a55f7be-591e-46e6-9655-2dccb1ecb04f.
+Removed unused net SDA_5V.
+Removed unused net SDA_3.3V.
+Removed unused net SCL_5V.
+Removed unused net SCL_3.3V.
+Removed unused net SCK.
+Removed unused net RES_3.3V.
+Removed unused net Net-(U6-I).
+Removed unused net Net-(U5-I).
+Removed unused net Net-(U3-VCOMH).
+Removed unused net Net-(U3-VCC).
+Removed unused net Net-(U3-IREF).
+Removed unused net Net-(U3-C2P).
+Removed unused net Net-(U3-C2N).
+Updated U2 symbol association from  to /a56b6e4f-3512-43c4-8ef7-f4cba6d69a63.
+Connected U2 pin 11 to PD_SCK.
+Connected U2 pin 10 to unconnected-(U2-INB+-Pad10).
+Connected U2 pin 4 to GND.
+Connected U2 pin 14 to GND.
+Connected U2 pin 5 to GND.
+Connected U2 pin 6 to Net-(U2-VBG).
+Connected U2 pin 3 to Net-(J1-Pin_1).
+Connected U2 pin 13 to unconnected-(U2-XO-Pad13).
+Connected U2 pin 15 to Net-(JP3-B).
+Updated U2 footprint filters to '*SO*3.9x9.9mm*P1.27mm*'.
+Updated U2 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated U2 sheetname to '/'.
+Updated U2 fields.
+Connected U2 pin 16 to VCC.
+Changed U2 value from SOIC-16_3.9x9.9mm_P1.27mm to HX711.
+Changed REF** reference designator to U2.
+Added U2 (footprint 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm').
+Connected C1 pin 1 to Net-(U2-INA+).
+Added C2 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C2.
+Connected R15 pin 2 to /trigg.
+Connected R15 pin 1 to Net-(U10-DIS).
+Updated R15 footprint filters to 'R_*'.
+Updated R15 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R15 sheetname to '/'.
+Updated R15 fields.
+Updated R3 symbol association from  to /3482b2b0-aecf-4f25-a878-71508c2f88d5.
+Updated U3 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Connected U3 pin 3 to Net-(D5-K).
+Connected U3 pin 1 to GND.
+Connected U3 pin 8 to VCC.
+Connected U3 pin 5 to Net-(U3-CV).
+Connected U3 pin 6 to Net-(U3-DIS).
+Connected U3 pin 4 to Net-(U3-R).
+Connected U3 pin 2 to Net-(Q4-D).
+Connected U3 pin 7 to Net-(U3-DIS).
+Updated U3 footprint filters to '*VSSOP*3x3mm*P0.65mm*'.
+Changed R15 value from R_0603_1608Metric to R_US.
+Updated U3 sheetname to '/'.
+Updated U3 fields.
+Updated U3 symbol association from  to /91495cd7-7923-4536-8464-9e1691ed8b07.
+Changed U3 value from VSSOP-8_3x3mm_P0.65mm to LMC555xMM.
+Changed REF** reference designator to U3.
+Added U3 (footprint 'Package_SO:VSSOP-8_3x3mm_P0.65mm').
+Connected C1 pin 2 to Net-(U2-INA-).
+Connected U2 pin 12 to DOut.
+Connected U2 pin 2 to unconnected-(U2-BASE-Pad2).
+Connected U2 pin 9 to unconnected-(U2-INB--Pad9).
+Connected U2 pin 1 to VCC.
+Connected U2 pin 7 to Net-(U2-INA-).
+Connected U2 pin 8 to Net-(U2-INA+).
+Updated C15 sheetname to '/'.
+Updated C16 footprint filters to 'C_*'.
+Updated C16 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C16 sheetname to '/'.
+Updated C16 fields.
+Updated C16 symbol association from  to /0e6d5779-b973-4303-98b5-53c449bcf0c3.
+Changed C16 value from C_0603_1608Metric to 22pF.
+Changed REF** reference designator to C16.
+Added C16 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C5 fields.
+Connected C15 pin 2 to GND.
+Connected C15 pin 1 to Net-(D3-K).
+Updated C15 footprint filters to 'C_*'.
+Updated C15 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Connected C16 pin 2 to GND.
+Updated C15 fields.
+Updated C15 symbol association from  to /efc7c0c3-245e-446d-86e2-59c7436ddb13.
+Changed C15 value from C_0603_1608Metric to 22pF.
+Changed REF** reference designator to C15.
+Added C15 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C5 sheetname to '/'.
+Connected C11 pin 1 to Net-(U10-CV).
+Connected C11 pin 2 to Net-(U10-GND).
+Updated C11 footprint filters to 'C_*'.
+Updated C11 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C11 sheetname to '/'.
+Updated C11 fields.
+Updated C11 symbol association from  to /7a2e75dd-aa0a-4091-9f43-987714920d8f.
+Changed REF** reference designator to C5.
+Changed REF** reference designator to D3.
+Added D3 (footprint 'Diode_SMD:D_SOD-882').
+Added C5 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Connected D2 pin 1 to Net-(D2-K).
+Added R3 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Updated D2 footprint filters to 'D*SOD?523*'.
+Updated D2 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated D2 sheetname to '/'.
+Updated D2 fields.
+Updated D2 symbol association from  to /8aa79d74-e3ff-4e43-b4f0-d0cba5cd5bfe.
+Changed D2 value from D_SOD-523 to 1N4148WT.
+Changed REF** reference designator to D2.
+Added D2 (footprint 'Diode_SMD:D_SOD-523').
+Changed C11 value from C_0603_1608Metric to 0.1u.
+Changed C5 value from C_0603_1608Metric to 10uF.
+Connected C17 pin 2 to VCC.
+Connected C17 pin 1 to GND.
+Updated C17 footprint filters to 'C_*'.
+Updated C17 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C17 sheetname to '/'.
+Updated C17 fields.
+Updated C17 symbol association from  to /365e0bf1-85d1-4bde-916f-24dee8a6cc00.
+Changed C17 value from C_0603_1608Metric to 0.1uF.
+Changed REF** reference designator to C17.
+Added C17 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C5 symbol association from  to /3816fc61-a498-4b43-bb79-39f476d38bae.
+Connected C16 pin 1 to Net-(D4-K).
+Updated C7 fields.
+Updated C8 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C8 sheetname to '/'.
+Updated C8 fields.
+Updated C8 symbol association from  to /b3601c34-d23d-4fdc-8cf8-464301d40d34.
+Changed C8 value from C_0603_1608Metric to 0.1u.
+Changed REF** reference designator to C8.
+Added C8 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Connected C5 pin 2 to GND.
+Connected C7 pin 2 to GND.
+Connected C7 pin 1 to VCC.
+Updated C7 footprint filters to 'C_*'.
+Updated C7 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C7 sheetname to '/'.
+Updated C8 footprint filters to 'C_*'.
+Updated C7 symbol association from  to /b44314ad-7a5a-4ae7-acd5-8491ece6546e.
+Changed C7 value from C_0603_1608Metric to 0.1uF.
+Changed REF** reference designator to C7.
+Added C7 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Connected C6 pin 2 to GND.
+Connected C6 pin 1 to VCC.
+Updated C6 footprint filters to 'C_*'.
+Updated C6 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C6 sheetname to '/'.
+Updated C6 fields.
+Updated C6 symbol association from  to /db8f40c2-ddbf-40cb-80af-32d71eca16c5.
+Changed C6 value from C_0603_1608Metric to 0.1uF.
+Changed REF** reference designator to C6.
+Updated C5 footprint filters to 'C_*'.
+Changed REF** reference designator to C11.
+Added C11 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C5 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Connected C10 pin 1 to /trigg.
+Connected C10 pin 2 to Net-(U10-GND).
+Updated C10 footprint filters to 'C_*'.
+Updated C10 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C10 sheetname to '/'.
+Updated C10 fields.
+Updated C10 symbol association from  to /22fc586e-6a2d-42e5-934b-3fa5995b19a4.
+Changed C10 value from C_0603_1608Metric to 0.1u.
+Changed REF** reference designator to C10.
+Added C10 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Connected D2 pin 2 to Tare.
+Connected C9 pin 2 to GND.
+Connected C9 pin 1 to Net-(U3-DIS).
+Updated C9 footprint filters to 'C_*'.
+Updated C9 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C9 sheetname to '/'.
+Updated C9 fields.
+Updated C9 symbol association from  to /6c43dbfa-3ff5-4869-8f11-c794da045e04.
+Changed C9 value from C_0603_1608Metric to 1u.
+Changed REF** reference designator to C9.
+Added C9 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Connected C5 pin 1 to VCC.
+Connected C8 pin 2 to GND.
+Connected C8 pin 1 to Net-(U3-CV).
+Updated J1 sheetname to '/'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 2 to Net-(J1-Pin_1).
+Connected C3 pin 1 to GND.
+Added C4 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0603_1608Metric to 0.1uF.
+Connected J1 pin 1 to Net-(J1-Pin_1).
+Connected J1 pin 3 to Net-(J1-Pin_3).
+Connected J1 pin 2 to GND.
+Connected J1 pin 4 to GND.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Updated J1 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated C3 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated J1 fields.
+Updated J1 symbol association from  to /33f9c7d9-2bd9-4e08-9187-5949296d0cd0.
+Changed J1 value from PinHeader_1x04_P1.00mm_Vertical to Conn_01x04_Pin.
+Changed REF** reference designator to J1.
+Added J1 (footprint 'Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical').
+Updated C4 symbol association from  to /ddda3087-ee6b-46d0-ab46-712953ef8439.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Connected D7 pin 2 to GND.
+Connected D7 pin 1 to Net-(D7-K).
+Updated D7 footprint filters to 'D*SOD?882'.
+Connected R1 pin 1 to GND.
+Changed REF** reference designator to C3.
+Connected R2 pin 2 to Net-(U2-INA+).
+Connected R2 pin 1 to Net-(J1-Pin_3).
+Updated R2 footprint filters to 'R_*'.
+Updated R2 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R2 sheetname to '/'.
+Updated R2 fields.
+Updated R2 symbol association from  to /af73aeb2-a5eb-4974-bef7-4c848ba9a55d.
+Changed R2 value from R_0603_1608Metric to 100.
+Changed REF** reference designator to R2.
+Added R2 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed C3 value from C_0603_1608Metric to 10uF.
+Updated D3 symbol association from  to /7e667c2d-9b4c-43f2-b09b-1ca169f56c58.
+Connected R1 pin 2 to Net-(U2-INA-).
+Updated R1 footprint filters to 'R_*'.
+Updated R1 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated R1 sheetname to '/'.
+Updated R1 fields.
+Updated R1 symbol association from  to /12660cfb-223a-48e0-8c86-038b6c97695a.
+Changed R1 value from R_0603_1608Metric to 100.
+Changed REF** reference designator to R1.
+Added R1 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Updated C3 symbol association from  to /6ffe42fe-7d57-4b1b-8563-d39dd041a25e.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated D4 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Connected D5 pin 1 to Net-(D5-K).
+Updated D5 footprint filters to 'D*SOD?882'.
+Updated D7 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated D5 sheetname to '/'.
+Updated D5 fields.
+Updated D5 symbol association from  to /4b86c902-7160-4f02-a8e2-5f5dbc345548.
+Changed D5 value from D_SOD-882 to PESD3V3U1UL.
+Changed REF** reference designator to D5.
+Added D5 (footprint 'Diode_SMD:D_SOD-882').
+Connected C4 pin 2 to Net-(J1-Pin_1).
+Connected D4 pin 2 to GND.
+Connected D4 pin 1 to Net-(D4-K).
+Updated D4 footprint filters to 'D*SOD?882'.
+Updated D5 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated D4 sheetname to '/'.
+Updated D4 fields.
+Updated D4 symbol association from  to /b4dc5a14-a581-4553-ab79-2a0fcc940707.
+Changed D4 value from D_SOD-882 to PESD3V3U1UL.
+Changed REF** reference designator to D4.
+Added D4 (footprint 'Diode_SMD:D_SOD-882').
+Connected D3 pin 1 to Net-(D3-K).
+Connected D3 pin 2 to GND.
+Updated D3 footprint filters to 'D*SOD?882'.
+Updated D3 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated D3 sheetname to '/'.
+Updated D3 fields.
+Changed D3 value from D_SOD-882 to PESD3V3U1UL.
+Connected D6 pin 2 to GND.
+Updated D7 sheetname to '/'.
+Updated D7 fields.
+Updated D7 symbol association from  to /a5f5d26c-7a33-4b6d-9df2-6db92f83fd04.
+Changed D7 value from D_SOD-882 to PESD3V3U1UL.
+Changed REF** reference designator to D7.
+Added D7 (footprint 'Diode_SMD:D_SOD-882').
+Updated C4 footprint filters to 'C_*'.
+Connected D5 pin 2 to GND.
+Connected D6 pin 1 to Net-(D6-K).
+Updated D6 footprint filters to 'D*SOD?882'.
+Updated D6 sheetfile to 'WeighingScalePCB.kicad_sch'.
+Updated D6 sheetname to '/'.
+Connected C4 pin 1 to GND.
+Updated D6 symbol association from  to /27e88aa4-740e-4d06-b9a3-26d4ffff80e3.
+Updated D6 fields.
+Changed D6 value from D_SOD-882 to PESD3V3U1UL.
+Changed REF** reference designator to D6.
+Added D6 (footprint 'Diode_SMD:D_SOD-882').
+Error: Cannot add U5 (footprint 'TTP223-BA6:SOT23-6' not found).
+Error: Cannot add U1 (footprint 'Seeed Studio XIAO Series Library:XIAO-ESP32C6-SMD' not found).
+Error: Cannot add IC1 (footprint 'SOIC127P600X175-8N' not found).
+Error: Cannot add T2 (footprint '0my_project:Touch-Pad_10mm' not found).
+Error: Cannot add U6 (footprint 'TTP223-BA6:SOT23-6' not found).
+Error: Cannot add T1 (footprint '0my_project:Touch-Pad_10mm' not found).
+Error: Cannot add U8 (no footprint assigned).
+Error: Cannot add FB1 (no footprint assigned).
+Error: Cannot add U4 (no footprint assigned).
+Error: Cannot add J3 (no footprint assigned).
+Error: Cannot add J2 (no footprint assigned).
+Error: Cannot add U7 (no footprint assigned).
+Error: Cannot add J4 (no footprint assigned).
+Error: Cannot add IC2 (footprint 'SOT95P240X115-3N' not found).
+Error: Cannot add U9 (no footprint assigned).
+Error: Cannot add D1 (footprint 'SOIC127P600X175-16N' not found).
+Error: Cannot add J5 (no footprint assigned).
+Error: Cannot add JP2 (no footprint assigned).
+Error: Cannot add JP3 (no footprint assigned).
+Error: Cannot add Q5 (footprint 'SOT95P230X110-3N' not found).
+Error: Cannot add Q4 (footprint 'SOT95P230X110-3N' not found).
+Error: Cannot add Q2 (footprint 'SOT95P230X110-3N' not found).
+Error: Cannot add Q3 (footprint 'SOT95P230X110-3N' not found).
+
+
+Info: Total warnings: 0, errors: 23.
