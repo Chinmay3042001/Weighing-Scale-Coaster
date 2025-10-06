@@ -12509,15 +12509,15 @@
 		(fields_autoplaced yes)
 		(uuid "4b8f0e06-0761-469b-a9b9-ad757f83e368")
 		(property "Reference" "U4"
-			(at 375.92 136.8411 0)
+			(at 379.73 136.8411 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "74LVC1G79"
-			(at 375.92 139.3811 0)
+		(property "Value" "74LVC1G79GW-Q100H"
+			(at 379.73 139.3811 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13588,15 +13588,15 @@
 		(fields_autoplaced yes)
 		(uuid "74aadcbb-1521-47bf-83ca-8893d5c8e4c7")
 		(property "Reference" "U7"
-			(at 278.13 135.5711 0)
+			(at 281.94 135.5711 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "74LVC1G79"
-			(at 278.13 138.1111 0)
+		(property "Value" "74LVC1G79GW-Q100H"
+			(at 281.94 138.1111 0)
 			(effects
 				(font
 					(size 1.27 1.27)
