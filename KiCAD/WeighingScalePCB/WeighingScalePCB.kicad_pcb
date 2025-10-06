@@ -3321,7 +3321,7 @@
 			(uuid "814601d7-d873-47ba-8633-2f35d69696dc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 3.475 4.9 0)
 			(layer "F.Fab")
 			(uuid "e823d812-fed4-4bc1-b628-8690e5d9d4b5")
 			(effects
@@ -4261,7 +4261,7 @@
 	(footprint "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "8ae5d680-b6f2-4485-8ecb-16d9524b5568")
-		(at 179.3 92.6)
+		(at 179.5 92.5)
 		(descr "Through hole straight pin header, 1x04, 1.00mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 1.00mm single row")
 		(property "Reference" "J1"
@@ -5050,7 +5050,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0 -1.43 0)
+			(at 3.475 3.47 0)
 			(layer "F.SilkS")
 			(uuid "0b3c19a9-ab9a-4bf2-b267-10e29e69bddb")
 			(effects
@@ -5201,7 +5201,7 @@
 			(uuid "d2c0a3ce-21a9-4898-ba5e-a7eb6a2bd9c5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 3.475 4.9 0)
 			(layer "F.Fab")
 			(uuid "0336925a-130d-44de-9666-77edd310a596")
 			(effects
@@ -5739,7 +5739,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0 -1.43 0)
+			(at 3.475 3.47 0)
 			(layer "F.SilkS")
 			(uuid "9a1cace4-2685-4cc1-8d5e-e5f90e9c9277")
 			(effects
@@ -5890,7 +5890,7 @@
 			(uuid "cc4150bd-0908-4e73-95e6-1121105d0b04")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 3.475 4.9 0)
 			(layer "F.Fab")
 			(uuid "08cdf92c-8523-4a37-81b9-2dbbcba3e2f4")
 			(effects
@@ -6947,7 +6947,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at 0 -1.43 0)
+			(at 3.475 3.47 0)
 			(layer "F.SilkS")
 			(uuid "70b5ca27-5e24-46d6-9205-b9070df0e7fe")
 			(effects
@@ -7098,7 +7098,7 @@
 			(uuid "a131f20d-8ff1-426c-8494-d67e7285cb59")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 3.475 4.9 0)
 			(layer "F.Fab")
 			(uuid "40bcce66-e6ca-43a0-9c82-8b79f16c481c")
 			(effects
@@ -7831,7 +7831,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "fa3d8566-f2fe-43b3-820c-c8450c5ca71e")
-		(at 109.2 63.1)
+		(at 112.675 68)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R12"

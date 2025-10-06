@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LIB_NX138AKR")(type "KiCad")(uri "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_NX138AKR")(options "")(descr ""))
+)

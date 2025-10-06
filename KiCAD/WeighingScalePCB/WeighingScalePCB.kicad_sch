@@ -6340,6 +6340,12 @@
 		(uuid "1f8b975d-dded-4c4a-b9ba-2943c529dcb5")
 	)
 	(junction
+		(at 236.22 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "207b8009-0b43-40bb-b095-d99b3102a74a")
+	)
+	(junction
 		(at 334.01 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6454,6 +6460,12 @@
 		(uuid "93e6be9e-6190-432d-a0de-7740db36b631")
 	)
 	(junction
+		(at 351.79 21.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "994aa157-f2fe-46e3-9114-c6db066e8aa1")
+	)
+	(junction
 		(at 234.95 214.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6502,12 +6514,6 @@
 		(uuid "bd5fd2e1-6603-4b69-a5e8-502e235731b6")
 	)
 	(junction
-		(at 233.68 207.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c0162693-c4c5-45ac-9736-532f4022ee8a")
-	)
-	(junction
 		(at 137.16 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6544,6 +6550,12 @@
 		(uuid "d484d73b-3c5d-4b50-9944-8d942cd64fd2")
 	)
 	(junction
+		(at 243.84 171.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7801651-209f-4f98-a74a-fb7d7ab347c8")
+	)
+	(junction
 		(at 114.3 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6566,12 +6578,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee284016-b341-4044-80f9-7c62934ded7a")
-	)
-	(junction
-		(at 233.68 171.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ef7dcb3e-f32d-4335-bda5-b879795e41df")
 	)
 	(junction
 		(at 327.66 95.25)
@@ -6601,7 +6607,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 207.01) (xy 233.68 207.01)
+			(xy 232.41 207.01) (xy 236.22 207.01)
 		)
 		(stroke
 			(width 0)
@@ -6641,7 +6647,7 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 19.05) (xy 351.79 22.86)
+			(xy 351.79 19.05) (xy 351.79 21.59)
 		)
 		(stroke
 			(width 0)
@@ -6731,7 +6737,7 @@
 	)
 	(wire
 		(pts
-			(xy 370.84 41.91) (xy 370.84 34.29)
+			(xy 370.84 21.59) (xy 370.84 41.91)
 		)
 		(stroke
 			(width 0)
@@ -6971,7 +6977,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 207.01) (xy 233.68 171.45)
+			(xy 243.84 207.01) (xy 243.84 171.45)
 		)
 		(stroke
 			(width 0)
@@ -7348,6 +7354,16 @@
 			(type default)
 		)
 		(uuid "4fa26f17-9b32-4c50-be82-3623a4f61a7b")
+	)
+	(wire
+		(pts
+			(xy 243.84 207.01) (xy 236.22 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5007b5a0-b2cc-4e0c-98d3-fe46df3e5990")
 	)
 	(wire
 		(pts
@@ -7991,16 +8007,6 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 171.45) (xy 236.22 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e1be43b-9afa-44ad-bca6-fd0e9b1a32cf")
-	)
-	(wire
-		(pts
 			(xy 313.69 146.05) (xy 313.69 162.56)
 		)
 		(stroke
@@ -8038,6 +8044,16 @@
 			(type default)
 		)
 		(uuid "938bd551-13eb-487b-9702-52002a40e653")
+	)
+	(wire
+		(pts
+			(xy 351.79 21.59) (xy 351.79 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95141587-b5ea-43d6-afdb-a0ef27f12d07")
 	)
 	(wire
 		(pts
@@ -8218,6 +8234,16 @@
 			(type default)
 		)
 		(uuid "a9a73500-e7e5-486b-8853-bc9aab4cfd77")
+	)
+	(wire
+		(pts
+			(xy 370.84 21.59) (xy 351.79 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aabf155f-d18f-4d55-8973-c0b7909ada2b")
 	)
 	(wire
 		(pts
@@ -8528,16 +8554,6 @@
 			(type default)
 		)
 		(uuid "c3d56b5f-53f9-4264-b297-0aad85581f4f")
-	)
-	(wire
-		(pts
-			(xy 233.68 207.01) (xy 236.22 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5d91a6b-59b7-4ee9-9bca-f9c9634805cd")
 	)
 	(wire
 		(pts
@@ -8891,7 +8907,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 171.45) (xy 233.68 171.45)
+			(xy 228.6 171.45) (xy 236.22 171.45)
 		)
 		(stroke
 			(width 0)
@@ -10281,7 +10297,7 @@
 				)
 			)
 		)
-		(property "Value" "200K"
+		(property "Value" "5K"
 			(at 356.362 28.194 0)
 			(effects
 				(font
@@ -10723,72 +10739,6 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "Q3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 370.84 34.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2123535c-66ee-4a45-81fa-ae13233a615b")
-		(property "Reference" "#PWR020"
-			(at 370.84 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 370.84 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 370.84 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 370.84 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 370.84 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7d5f7fba-6178-45e0-a43e-200f2cd69a90")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "#PWR020")
 					(unit 1)
 				)
 			)
