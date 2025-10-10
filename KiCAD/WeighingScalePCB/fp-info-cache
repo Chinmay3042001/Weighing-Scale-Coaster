@@ -1,4 +1,4 @@
-25994433801090736
+26015553750643897
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59303,6 +59303,83 @@ emi filter
 0
 5
 5
+Footprints
+CL7525A_buzzer
+
+
+0
+4
+4
+Footprints
+PRT12639_thermocouple_conn
+PRT-12639-5
+Connector
+0
+4
+4
+Footprints
+SFV14R3STBE1HLF_oled_conn
+SFV14R-3STBE1HLF-2
+Connector
+0
+20
+20
+Footprints
+SM04B-SRSS-TB_LFSN_
+SM04B-SRSS-TB(LFSN)
+Connector
+0
+6
+6
+Footprints
+SOIC127P600X175-8N_MAX6675
+8 SO-3
+Integrated Circuit
+0
+8
+8
+Footprints
+SOT23-6_touchpad_sensor
+Empreinte CMS <b>SOT23</b> 6 broches<p><br><a href="http://geii/magasin/jpg/SOT23-6.jpg" title="Enlarge picture"><img src="http://geii/magasin/jpg/SOT23-6.jpg" width="200"></a><p><b>GEII/IUT ANGERS</b>
+
+0
+6
+6
+Footprints
+SOT95P230X110-3N
+SOT23-6
+MOSFET (N-Channel)
+0
+3
+3
+Footprints
+SOT95P240X115-3N_Hall effect
+Package MD, 3-Pin SMD (SOT23-3)
+Integrated Circuit
+0
+3
+3
+Footprints
+Untitled
+
+
+0
+0
+0
+Footprints
+XIAO-ESP32C6-SMD (1)
+
+
+0
+24
+24
+Footprints
+touchpad
+
+
+0
+4
+1
 Fuse
 FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165
 Littelfuse fuse holder for ATO/FKS blade fuses, 80V, vertical, 20 x 6mm, PCB thickness up to 1.5mm, http://www.littelfuse.com/~/media/commercial-vehicle/datasheets/automotive-fuse-holders/ato/littelfuse-fuse-holder-ato-flr-pcb-datasheet.pdf
@@ -67038,6 +67115,13 @@ solder jumper open
 0
 3
 3
+KiCad
+SOIC127P600X175-16N
+SP720ABG
+Diode
+0
+16
+16
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf

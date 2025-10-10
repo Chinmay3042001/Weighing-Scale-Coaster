@@ -1,0 +1,9 @@
+Manufacturer=SparkFun
+PartNumber=PRT-12639
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=3.4
+Released=2023-06-02 07:21:56
+Downloaded=2025-10-07 15:37:42
+3D=Y

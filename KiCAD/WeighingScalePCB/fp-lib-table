@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "LIB_NX138AKR")(type "KiCad")(uri "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_NX138AKR")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_SP720ABTG/SP720ABTG/KiCad")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/Footprints")(options "")(descr ""))
 )

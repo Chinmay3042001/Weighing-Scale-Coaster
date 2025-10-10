@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX6675ISA+T
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2019-11-18 10:04:07
+Downloaded=2025-10-07 15:25:41
+3D=Y

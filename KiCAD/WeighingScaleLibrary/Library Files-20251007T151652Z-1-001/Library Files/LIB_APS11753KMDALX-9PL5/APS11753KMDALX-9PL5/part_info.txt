@@ -1,0 +1,9 @@
+Manufacturer=Allegro Microsystems
+PartNumber=APS11753KMDALX-9PL5
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2024-12-18 13:28:15
+Downloaded=2025-10-07 15:31:12
+3D=Y
