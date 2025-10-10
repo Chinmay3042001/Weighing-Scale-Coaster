@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G79GW,125
+D 74LVC1G79 - Single D-type flip-flop; positive-edge trigger@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G79.pdf
+$ENDCMP
+#
+#End Doc Library

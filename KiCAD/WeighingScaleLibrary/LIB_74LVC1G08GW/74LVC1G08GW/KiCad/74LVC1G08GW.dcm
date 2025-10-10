@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G08GW
+D Single 2-input AND gate
+K
+F https://componentsearchengine.com/Datasheets/2/74LVC1G08GW.pdf
+$ENDCMP
+#
+#End Doc Library

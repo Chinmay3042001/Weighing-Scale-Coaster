@@ -1,4 +1,4 @@
-26015553750643897
+26024354450624049
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59346,6 +59346,27 @@ Empreinte CMS <b>SOT23</b> 6 broches<p><br><a href="http://geii/magasin/jpg/SOT2
 6
 6
 Footprints
+SOT65P210X110-5N_NOT
+DCK (R-PDSO-G5)
+Integrated Circuit
+0
+5
+5
+Footprints
+SOT65P212X110-5N_AND
+TSSOP5
+Integrated Circuit
+0
+5
+5
+Footprints
+SOT65P212X110-5N_D_FF
+SOT353-1
+Integrated Circuit
+0
+5
+5
+Footprints
 SOT95P230X110-3N
 SOT23-6
 MOSFET (N-Channel)
@@ -59367,6 +59388,13 @@ Untitled
 0
 0
 Footprints
+Untitled_1
+
+
+0
+1
+1
+Footprints
 XIAO-ESP32C6-SMD (1)
 
 
@@ -59378,7 +59406,14 @@ touchpad
 
 
 0
-4
+1
+1
+Footprints
+touchpad 2
+
+
+0
+1
 1
 Fuse
 FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165

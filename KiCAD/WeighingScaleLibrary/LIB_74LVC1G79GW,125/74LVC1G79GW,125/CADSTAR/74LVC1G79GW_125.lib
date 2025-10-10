@@ -1,0 +1,16 @@
+.74LVC1G79GW_125 :1 ;74LVC1G79 - Single D-type flip-flop; positive-edge trigger@en-us
+SOT65P212X110-5N
+*STM IC
+*NGS
+*PLB 1="D" 2="CP" 3="GND" 4="Q" 5="VCC"
+*MXP 5
+*DFN 74LVC1G79GW_125
+~!element14 Part Number (-)
+~!element14 Price/Stock (-)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74LVC1G79GW,125)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/74LVC1G79.pdf)
+~!Height (1.1mm)
+~!3D_Model (74LVC1G79GW,125)
+"74LVC1G79GW_125"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

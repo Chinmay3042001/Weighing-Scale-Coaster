@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74LVC1G08GW'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ELEMENT14_PART_NUMBER", "ELEMENT14_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "74LVC1G08GW" (!) = "", "SOT65P212X110-5N", "SOT23 (5-Pin)", "", "", "Single 2-input AND gate", "https://componentsearchengine.com/Datasheets/2/74LVC1G08GW.pdf", "1.1 mm"
+END_PART
+
+END.

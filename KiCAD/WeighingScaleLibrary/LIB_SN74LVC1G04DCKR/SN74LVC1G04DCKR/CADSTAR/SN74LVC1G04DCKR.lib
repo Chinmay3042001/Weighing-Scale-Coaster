@@ -1,0 +1,16 @@
+.SN74LVC1G04DCKR :1 ;SN74LVC1G04 Single Inverter Gate
+SOT65P210X110-5N
+*STM IC
+*NGS
+*PLB 1="NC" 2="A" 3="GND" 4="Y" 5="VCC"
+*MXP 5
+*DFN SN74LVC1G04DCKR
+~!element14 Part Number (-)
+~!element14 Price/Stock (-)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74LVC1G04DCKR)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/sn74lvc1g04.pdf)
+~!Height (1.1mm)
+~!3D_Model (SN74LVC1G04DCKR)
+SN74LVC1G04DCKR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=74LVC1G79GW,125
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=8.1
+Released=2019-11-12 07:41:52
+Downloaded=2025-10-10 11:58:38
+3D=Y

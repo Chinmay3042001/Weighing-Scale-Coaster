@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "74LVC1G08GW"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-15-08:52:48)
+    (mountForm default
+        (footprintRef "SOT65P212X110-5N")
+        (spec "System")
+    )
+)

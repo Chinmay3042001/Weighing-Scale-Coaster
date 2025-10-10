@@ -1,0 +1,16 @@
+.74LVC1G08GW :1 ;Single 2-input AND gate
+SOT65P212X110-5N
+*STM IC
+*NGS
+*PLB 1="B" 2="A" 3="GND" 4="Y" 5="VCC"
+*MXP 5
+*DFN 74LVC1G08GW
+~!element14 Part Number (-)
+~!element14 Price/Stock (-)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74LVC1G08GW)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/74LVC1G08GW.pdf)
+~!Height (1.1mm)
+~!3D_Model (74LVC1G08GW)
+"74LVC1G08GW"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

@@ -20,23 +20,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "T"
-				(at -1.27 2.54 0)
+			(property "Reference" "T1"
+				(at 6.35 1.2701 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Value" "TouchPad"
-				(at 0 0 0)
+				(at 6.35 -1.2699 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Footprints:touchpad"
 				(at 0 0 0)
 				(effects
 					(font
@@ -96,7 +98,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "T1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1348,8 +1350,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at 0 8.89 0)
+			(property "Reference" "J2"
+				(at -2.54 8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1357,14 +1359,14 @@
 				)
 			)
 			(property "Value" "AudioJack4"
-				(at 0 6.35 0)
+				(at -2.54 6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Footprints:PRT12639_thermocouple_conn"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1485,14 +1487,14 @@
 				(pin passive line
 					(at 5.08 2.54 180)
 					(length 2.54)
-					(name "~"
+					(name "S"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "S"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1503,14 +1505,14 @@
 				(pin passive line
 					(at 5.08 0 180)
 					(length 2.54)
-					(name "~"
+					(name "R2"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "R2"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1521,14 +1523,14 @@
 				(pin passive line
 					(at 5.08 -2.54 180)
 					(length 2.54)
-					(name "~"
+					(name "R1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "R1"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1539,14 +1541,14 @@
 				(pin passive line
 					(at 5.08 -5.08 180)
 					(length 2.54)
-					(name "~"
+					(name "T"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "T"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1583,7 +1585,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Footprints:SM04B-SRSS-TB_LFSN_"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1786,7 +1788,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1804,7 +1806,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1841,7 +1843,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Footprints:SFV14R3STBE1HLF_oled_conn"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2334,7 +2336,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2352,7 +2354,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5330,6 +5332,106 @@
 						)
 					)
 					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "TouchPad_1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "T2"
+				(at 6.35 1.2701 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "TouchPad"
+				(at 6.35 -1.2699 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Footprints:touchpad"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Touch Sensor Pad"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Touch-Pad_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TouchPad_1_0_1"
+				(circle
+					(center 0 0)
+					(radius 5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TouchPad_1_1_1"
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "Pad"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -12657,7 +12759,7 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
+		(pin "T1"
 			(uuid "ff637b49-f5cb-4a58-bf78-969476febbf4")
 		)
 		(instances
@@ -12802,10 +12904,10 @@
 		(pin "2"
 			(uuid "c5f09561-a2b8-4ba4-98e9-c6e502a24626")
 		)
-		(pin "MP"
+		(pin "6"
 			(uuid "ac64efbf-35d9-406b-9cc1-fffed2c84673")
 		)
-		(pin "MP"
+		(pin "5"
 			(uuid "49a10ed4-da5b-4be9-ab9f-b75e734760fe")
 		)
 		(instances
@@ -12913,7 +13015,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:SOT65P212X110-5N_D_FF"
 			(at 361.95 148.59 0)
 			(effects
 				(font
@@ -13178,7 +13280,7 @@
 		(pin "5"
 			(uuid "bc6b717b-9be4-4e47-b961-c06d763dca4b")
 		)
-		(pin "MP"
+		(pin "16"
 			(uuid "82630d8b-8d6c-4a07-a01d-75cf2a7028f0")
 		)
 		(pin "3"
@@ -13196,7 +13298,7 @@
 		(pin "2"
 			(uuid "e1c0a3f4-78da-4137-a1bc-1def5b6530f3")
 		)
-		(pin "MP"
+		(pin "15"
 			(uuid "480142e1-72d3-409f-92e1-56ad2e467fa7")
 		)
 		(instances
@@ -14175,7 +14277,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:SOT65P212X110-5N_D_FF"
 			(at 264.16 147.32 0)
 			(effects
 				(font
@@ -15025,16 +15127,16 @@
 				(hide yes)
 			)
 		)
-		(pin "R1"
+		(pin "2"
 			(uuid "61f32e5e-3e9b-4ef2-aff6-52a0b4885de9")
 		)
-		(pin "R2"
+		(pin "1"
 			(uuid "92e0a818-206c-48e8-bfb8-02bdb2aee7a3")
 		)
-		(pin "S"
+		(pin "4"
 			(uuid "cb2fb22d-da38-46c6-be96-2f81419a816e")
 		)
-		(pin "T"
+		(pin "3"
 			(uuid "a532c4bd-71bb-4980-bd2e-4483c9eac012")
 		)
 		(instances
@@ -15788,7 +15890,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 382.27 90.17 0)
 			(effects
 				(font
@@ -15988,7 +16090,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:SOT65P212X110-5N_AND"
 			(at 328.93 143.51 0)
 			(effects
 				(font
@@ -17115,7 +17217,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprints:SOT65P210X110-5N_NOT"
 			(at 292.1 142.24 0)
 			(effects
 				(font
@@ -17458,7 +17560,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 69.85 91.44 0)
 			(effects
 				(font
@@ -18180,6 +18282,7 @@
 		)
 	)
 	(symbol
+		(lib_name "TouchPad_1")
 		(lib_id "0my_project:TouchPad")
 		(at 191.77 212.09 0)
 		(mirror y)
@@ -18207,7 +18310,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprints:touchpad"
+		(property "Footprint" "Footprints:touchpad 2"
 			(at 191.77 212.09 0)
 			(effects
 				(font
@@ -18234,7 +18337,7 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
+		(pin "T2"
 			(uuid "fbefdae1-220e-48e0-aaea-6128c5f59dd3")
 		)
 		(instances
@@ -18430,7 +18533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT95P240X115-3N"
+		(property "Footprint" "Footprints:SOT95P240X115-3N_Hall effect"
 			(at 396.24 136.83 0)
 			(effects
 				(font
