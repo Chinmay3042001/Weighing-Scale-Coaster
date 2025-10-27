@@ -5939,12 +5939,6 @@
 		(uuid "03bad6ad-6b8d-44ed-b933-c99d5db01f22")
 	)
 	(junction
-		(at 88.9 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "05cdb645-a89c-48fb-a99c-1187969324cd")
-	)
-	(junction
 		(at 60.96 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5957,22 +5951,10 @@
 		(uuid "063a7cb2-ca72-44e3-a29d-95a3889ba582")
 	)
 	(junction
-		(at 91.44 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0e2a2a32-395a-4ce1-8bde-abd87f933910")
-	)
-	(junction
 		(at 341.63 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f6ebe07-3587-4474-b470-56230980183a")
-	)
-	(junction
-		(at 91.44 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "115e20ea-227c-4322-a5fe-4d7531576815")
 	)
 	(junction
 		(at 297.18 195.58)
@@ -5991,12 +5973,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "207b8009-0b43-40bb-b095-d99b3102a74a")
-	)
-	(junction
-		(at 68.58 162.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "20ba1072-4aa1-44cd-9ea8-3dcc35ecd54f")
 	)
 	(junction
 		(at 334.01 175.26)
@@ -6029,12 +6005,6 @@
 		(uuid "3c5315f6-4fce-407b-8b74-a11f8fb448f4")
 	)
 	(junction
-		(at 88.9 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3fa0f410-84ea-4b1d-afac-3d8b6efdfd1e")
-	)
-	(junction
 		(at 144.78 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6047,22 +6017,10 @@
 		(uuid "5302da57-051f-47e5-a842-c754ebe5c793")
 	)
 	(junction
-		(at 81.28 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "565889e0-6129-401a-a0af-f9f19c234aa9")
-	)
-	(junction
 		(at 156.21 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5732388e-fe3d-4999-9a7a-c131a651d3ec")
-	)
-	(junction
-		(at 86.36 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5793b833-cbab-4423-b624-c56ed13dcc22")
 	)
 	(junction
 		(at 165.1 74.93)
@@ -6107,34 +6065,10 @@
 		(uuid "67c37b02-7b73-4c65-9d91-83769bb2e3ab")
 	)
 	(junction
-		(at 71.12 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6826a66a-05cd-4b1d-b5ff-764e1df90f44")
-	)
-	(junction
-		(at 66.04 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a402e66-1736-4b85-8de5-826c0a760752")
-	)
-	(junction
 		(at 354.33 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d4a9ac9-fe96-43ed-9218-a0f4e1216237")
-	)
-	(junction
-		(at 68.58 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "70bd8722-b3be-4200-a000-ba876dc0b127")
-	)
-	(junction
-		(at 63.5 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7abed726-fc7b-4a7a-b334-11e2c7628add")
 	)
 	(junction
 		(at 207.01 223.52)
@@ -6191,22 +6125,10 @@
 		(uuid "a5e99f96-c769-49df-87a6-c8ff315567ab")
 	)
 	(junction
-		(at 368.3 187.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab8a4518-65c1-447f-b33b-2e20539ecb9f")
-	)
-	(junction
 		(at 205.74 176.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "acd16f0b-dc21-4283-8bcd-2014853fe263")
-	)
-	(junction
-		(at 86.36 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aebb13b5-8b36-4be3-a9d3-e48fb5a26c16")
 	)
 	(junction
 		(at 199.39 212.09)
@@ -6251,12 +6173,6 @@
 		(uuid "c3b2c872-10fa-4800-b421-4dbf6932f4f5")
 	)
 	(junction
-		(at 66.04 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c6471d3a-4a06-44d3-ae54-1f2caaa4fa60")
-	)
-	(junction
 		(at 327.66 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6281,34 +6197,10 @@
 		(uuid "cebe75ba-10f6-4522-8a22-5220d239fb7d")
 	)
 	(junction
-		(at 81.28 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cffbf968-c4db-48b7-a946-97ef1e7f1db8")
-	)
-	(junction
-		(at 71.12 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0707b28-6beb-428d-a9a4-251d78d20368")
-	)
-	(junction
-		(at 63.5 167.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d354e523-27bd-4363-a620-426960853d96")
-	)
-	(junction
 		(at 236.22 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d484d73b-3c5d-4b50-9944-8d942cd64fd2")
-	)
-	(junction
-		(at 83.82 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d721dbb0-4bb9-4842-bd05-7500fc29eb67")
 	)
 	(junction
 		(at 243.84 171.45)
@@ -6345,12 +6237,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee284016-b341-4044-80f9-7c62934ded7a")
-	)
-	(junction
-		(at 83.82 200.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eef33dd9-b41a-49b1-a256-516a1ae6903f")
 	)
 	(junction
 		(at 327.66 95.25)
@@ -6519,16 +6405,6 @@
 			(type default)
 		)
 		(uuid "0f9e36f1-fb70-4c31-9cbd-b8e1d334cdb8")
-	)
-	(wire
-		(pts
-			(xy 91.44 200.66) (xy 101.6 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "125768f2-d195-43f3-8f8a-ce5564b36659")
 	)
 	(wire
 		(pts
@@ -6702,7 +6578,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 81.28) (xy 82.55 81.28)
+			(xy 87.63 81.28) (xy 85.09 81.28)
 		)
 		(stroke
 			(width 0)
@@ -6762,16 +6638,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 149.86) (xy 147.32 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22d137fa-f1b3-4051-aaf4-ef16816cfe0e")
-	)
-	(wire
-		(pts
 			(xy 372.11 48.26) (xy 372.11 44.45)
 		)
 		(stroke
@@ -6802,7 +6668,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 167.64) (xy 63.5 167.64)
+			(xy 59.69 167.64) (xy 147.32 167.64)
 		)
 		(stroke
 			(width 0)
@@ -6839,26 +6705,6 @@
 			(type default)
 		)
 		(uuid "2a2020b8-dd50-4941-95b2-5981413e57e2")
-	)
-	(wire
-		(pts
-			(xy 88.9 144.78) (xy 88.9 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a9ffff8-3d66-479e-9a49-223ade66ce9b")
-	)
-	(wire
-		(pts
-			(xy 368.3 187.96) (xy 368.3 191.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b257610-9aba-4366-8893-849a6bb8ec16")
 	)
 	(wire
 		(pts
@@ -6932,7 +6778,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 200.66) (xy 81.28 200.66)
+			(xy 76.2 200.66) (xy 101.6 200.66)
 		)
 		(stroke
 			(width 0)
@@ -6982,6 +6828,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 91.44) (xy 74.93 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32722814-f2b9-4f36-bd1b-a85a0399bfa6")
+	)
+	(wire
+		(pts
 			(xy 334.01 105.41) (xy 334.01 109.22)
 		)
 		(stroke
@@ -6989,16 +6845,6 @@
 			(type default)
 		)
 		(uuid "33ab3785-74ef-4b81-a55d-b5ce469281ba")
-	)
-	(wire
-		(pts
-			(xy 83.82 144.78) (xy 88.9 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3415883e-c3ba-4865-9b1f-d0798c0f6e5d")
 	)
 	(wire
 		(pts
@@ -7019,6 +6865,16 @@
 			(type default)
 		)
 		(uuid "37cc7aa6-337a-493c-94d1-6a90c4d4069f")
+	)
+	(wire
+		(pts
+			(xy 69.85 99.06) (xy 72.39 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38145898-2f7e-4f37-862e-5a9f03905edb")
 	)
 	(wire
 		(pts
@@ -7112,16 +6968,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 167.64) (xy 63.5 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44d39589-b65a-4818-9ecc-12bbf5b1f2e9")
-	)
-	(wire
-		(pts
 			(xy 354.33 173.99) (xy 334.01 173.99)
 		)
 		(stroke
@@ -7199,16 +7045,6 @@
 			(type default)
 		)
 		(uuid "48be9d1b-f5a9-4f5f-abfc-ffaa5f8a5fd1")
-	)
-	(wire
-		(pts
-			(xy 91.44 142.24) (xy 91.44 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49aa80eb-65ba-4b5b-b6d9-3f64957abc99")
 	)
 	(wire
 		(pts
@@ -7329,16 +7165,6 @@
 			(type default)
 		)
 		(uuid "53fbef42-eb4f-4f1a-a18e-71751577c9a8")
-	)
-	(wire
-		(pts
-			(xy 81.28 152.4) (xy 81.28 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54aa0d65-1ebf-47a8-8285-0185f6654fd0")
 	)
 	(wire
 		(pts
@@ -7522,7 +7348,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 144.78) (xy 147.32 144.78)
+			(xy 83.82 144.78) (xy 147.32 144.78)
 		)
 		(stroke
 			(width 0)
@@ -7562,16 +7388,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 160.02) (xy 71.12 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6784155e-1bc1-481f-ab0f-bd36a2ffb296")
-	)
-	(wire
-		(pts
 			(xy 55.88 175.26) (xy 147.32 175.26)
 		)
 		(stroke
@@ -7589,16 +7405,6 @@
 			(type default)
 		)
 		(uuid "6b5429fc-0cd4-4a73-a170-4ce15887b755")
-	)
-	(wire
-		(pts
-			(xy 368.3 199.39) (xy 368.3 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c22bbe2-b257-4a50-bf55-99a20360319f")
 	)
 	(wire
 		(pts
@@ -7642,16 +7448,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 160.02) (xy 62.23 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70c14ae9-d459-4a2c-bd3b-5e75dc4d18e1")
-	)
-	(wire
-		(pts
 			(xy 260.35 71.12) (xy 267.97 71.12)
 		)
 		(stroke
@@ -7659,16 +7455,6 @@
 			(type default)
 		)
 		(uuid "717ec7fa-efa3-46c5-97da-e55c463097af")
-	)
-	(wire
-		(pts
-			(xy 63.5 200.66) (xy 66.04 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "723efa1a-1a4f-4c7a-9090-ff4bb0ba225f")
 	)
 	(wire
 		(pts
@@ -7682,16 +7468,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 162.56) (xy 68.58 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72f00c23-e958-4f0f-be1c-022103328b66")
-	)
-	(wire
-		(pts
 			(xy 50.8 161.29) (xy 46.99 161.29)
 		)
 		(stroke
@@ -7699,16 +7475,6 @@
 			(type default)
 		)
 		(uuid "7349e6ee-d9e2-445d-9ee7-d671ab454d55")
-	)
-	(wire
-		(pts
-			(xy 86.36 200.66) (xy 88.9 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74595321-33b7-432a-aa5a-33fcfd15708f")
 	)
 	(wire
 		(pts
@@ -7952,7 +7718,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 152.4) (xy 81.28 152.4)
+			(xy 62.23 152.4) (xy 147.32 152.4)
 		)
 		(stroke
 			(width 0)
@@ -7979,26 +7745,6 @@
 			(type default)
 		)
 		(uuid "8734f94e-9f10-4cb6-8e69-421497a12e2a")
-	)
-	(wire
-		(pts
-			(xy 88.9 200.66) (xy 91.44 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "875da633-9ba6-4d78-ac32-3488c63032e0")
-	)
-	(wire
-		(pts
-			(xy 63.5 167.64) (xy 147.32 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87a26a9e-81c8-4bc4-b66f-1b02c099bcae")
 	)
 	(wire
 		(pts
@@ -8109,16 +7855,6 @@
 			(type default)
 		)
 		(uuid "95141587-b5ea-43d6-afdb-a0ef27f12d07")
-	)
-	(wire
-		(pts
-			(xy 66.04 165.1) (xy 66.04 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9652bd81-8366-43e4-b990-1d013b4f4668")
 	)
 	(wire
 		(pts
@@ -8242,16 +7978,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 152.4) (xy 147.32 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3da82f7-5fbc-4eac-8f59-bf689d93c261")
-	)
-	(wire
-		(pts
 			(xy 347.98 90.17) (xy 327.66 90.17)
 		)
 		(stroke
@@ -8352,6 +8078,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 97.79) (xy 77.47 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab6cdb6b-d5ea-4680-9cb9-a452d20343d0")
+	)
+	(wire
+		(pts
 			(xy 303.53 180.34) (xy 321.31 180.34)
 		)
 		(stroke
@@ -8372,7 +8108,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 200.66) (xy 63.5 200.66)
+			(xy 60.96 200.66) (xy 76.2 200.66)
 		)
 		(stroke
 			(width 0)
@@ -8442,7 +8178,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 149.86) (xy 83.82 149.86)
+			(xy 69.85 149.86) (xy 147.32 149.86)
 		)
 		(stroke
 			(width 0)
@@ -8512,16 +8248,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 200.66) (xy 76.2 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b3ca3105-a441-4c55-ad58-b6f8ece6b5a9")
-	)
-	(wire
-		(pts
 			(xy 370.84 55.88) (xy 370.84 57.15)
 		)
 		(stroke
@@ -8529,16 +8255,6 @@
 			(type default)
 		)
 		(uuid "b48378a4-340d-452f-bbb9-19ed1954331e")
-	)
-	(wire
-		(pts
-			(xy 86.36 147.32) (xy 86.36 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b488269f-982d-49e6-a07c-ccc46ffe4d07")
 	)
 	(wire
 		(pts
@@ -8622,7 +8338,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 160.02) (xy 147.32 160.02)
+			(xy 62.23 160.02) (xy 147.32 160.02)
 		)
 		(stroke
 			(width 0)
@@ -8802,6 +8518,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 93.98) (xy 72.39 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbd5445c-ad09-4008-99e9-21e2f2033cc7")
+	)
+	(wire
+		(pts
 			(xy 119.38 60.96) (xy 113.03 60.96)
 		)
 		(stroke
@@ -8809,6 +8535,16 @@
 			(type default)
 		)
 		(uuid "cbff6d6b-4450-43a3-a873-17ca94d518e7")
+	)
+	(wire
+		(pts
+			(xy 85.09 93.98) (xy 72.39 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdcf1833-96b3-4d4d-bd22-74026c04fbb0")
 	)
 	(wire
 		(pts
@@ -8832,6 +8568,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 81.28) (xy 85.09 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0093324-0475-4727-8df7-67b5f0e8d706")
+	)
+	(wire
+		(pts
 			(xy 326.39 175.26) (xy 326.39 173.99)
 		)
 		(stroke
@@ -8839,16 +8585,6 @@
 			(type default)
 		)
 		(uuid "d00ee6ed-b694-48c2-a478-8078eaa59a39")
-	)
-	(wire
-		(pts
-			(xy 66.04 200.66) (xy 68.58 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d033a449-e5a6-404f-962a-f8e6384a9c0d")
 	)
 	(wire
 		(pts
@@ -8912,16 +8648,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 200.66) (xy 83.82 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7006fe1-ca8f-4fb5-aa32-21374ec43bd7")
-	)
-	(wire
-		(pts
 			(xy 341.63 104.14) (xy 341.63 109.22)
 		)
 		(stroke
@@ -8982,16 +8708,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 200.66) (xy 86.36 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbb0a8d2-f66a-433c-8c7f-6d78184641a6")
-	)
-	(wire
-		(pts
 			(xy 351.79 64.77) (xy 351.79 62.23)
 		)
 		(stroke
@@ -9039,16 +8755,6 @@
 			(type default)
 		)
 		(uuid "e2d3ee7a-fcdb-47e6-96f9-e6207753fdd2")
-	)
-	(wire
-		(pts
-			(xy 83.82 149.86) (xy 83.82 193.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4b78292-3e8a-4d90-b784-fbd36050701d")
 	)
 	(wire
 		(pts
@@ -9112,16 +8818,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 91.44) (xy 82.55 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea32beb2-cc27-4800-ab4a-65c121716a89")
-	)
-	(wire
-		(pts
 			(xy 228.6 171.45) (xy 236.22 171.45)
 		)
 		(stroke
@@ -9139,16 +8835,6 @@
 			(type default)
 		)
 		(uuid "ed1675ab-173f-4c68-b69c-134e8fcf7397")
-	)
-	(wire
-		(pts
-			(xy 68.58 200.66) (xy 71.12 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed1a6a1e-8aab-4267-9cbb-648db370401d")
 	)
 	(wire
 		(pts
@@ -9209,16 +8895,6 @@
 			(type default)
 		)
 		(uuid "f127cae5-4905-4656-9cb8-4e6f5aeef423")
-	)
-	(wire
-		(pts
-			(xy 82.55 81.28) (xy 82.55 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1453f6a-70f4-43e6-b478-1914475dc77a")
 	)
 	(wire
 		(pts
@@ -9379,6 +9055,16 @@
 			(justify right bottom)
 		)
 		(uuid "1016ad35-b48e-4f9c-b17f-0e0b1638f8b5")
+	)
+	(label "buzz_drive"
+		(at 365.76 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "19f595f8-e7d4-44a2-9eba-44a72db53ae2")
 	)
 	(label "enable"
 		(at 353.06 64.77 0)
@@ -9550,6 +9236,16 @@
 		)
 		(uuid "94ce7ce8-a3a5-4667-98ce-7cb659d9d8db")
 	)
+	(label "buzz_pull_down"
+		(at 304.8 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a2cf3c75-0c9a-42cc-9c20-a5f7cec91db1")
+	)
 	(label "V_BAT"
 		(at 236.22 87.63 0)
 		(effects
@@ -9629,6 +9325,28 @@
 			(justify left bottom)
 		)
 		(uuid "fcc66106-0ee6-44d8-80bf-3b60bc9d5d2b")
+	)
+	(global_label "PD_SCK"
+		(shape output)
+		(at 212.09 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1cbde3ca-f9c5-4a53-85e1-d019f2e0cf32")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.0366 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "Time"
 		(shape output)
@@ -9850,8 +9568,8 @@
 			)
 		)
 	)
-	(global_label "PD_SCK"
-		(shape output)
+	(global_label "Tare"
+		(shape input)
 		(at 264.16 63.5 0)
 		(fields_autoplaced yes)
 		(effects
@@ -9860,9 +9578,9 @@
 			)
 			(justify left)
 		)
-		(uuid "abd2dd2e-2ce2-43a3-bba8-99787a57bd11")
+		(uuid "a69c37ac-5ca6-42dd-a4e8-88563d4ce7c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 274.4023 63.5 0)
+			(at 270.4068 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9912,28 +9630,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Tare"
-		(shape input)
-		(at 212.09 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bdc98805-7908-4826-b8db-26674203813a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 205.1134 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -11402,75 +11098,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 81.28 196.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "191fd586-9e19-4c89-97b5-a33b8c4e9eb0")
-		(property "Reference" "D16"
-			(at 78.74 194.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 77.47 207.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 76.2 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 86.36 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 88.9 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8a8b6239-5474-457a-a349-93a531d44e21")
-		)
-		(pin "1"
-			(uuid "42c14114-351e-470f-97a8-87bdbe4019e1")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 334.01 195.58 0)
 		(unit 1)
@@ -12009,75 +11636,6 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 66.04 196.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2eaa74bd-35ee-4018-a812-a0f28b607cdb")
-		(property "Reference" "D11"
-			(at 66.04 199.39 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 62.23 207.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 60.96 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 71.12 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 73.66 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3ce69571-40dd-4ca3-8fad-3640dabb5d05")
-		)
-		(pin "1"
-			(uuid "e72c1fe4-ab1d-4950-8707-557f0a900c37")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -13532,76 +13090,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 368.3 195.58 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4b86c902-7160-4f02-a8e2-5f5dbc345548")
-		(property "Reference" "D5"
-			(at 370.84 194.3099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 370.84 196.8499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 363.22 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 373.38 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 375.92 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2159aee8-b6a2-4364-8eb3-79386aa0c824")
-		)
-		(pin "1"
-			(uuid "6ae783a0-28ca-43d2-a22e-4ebc6a470a65")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xGxx:74LVC1G79")
 		(at 361.95 148.59 0)
 		(unit 1)
@@ -14180,75 +13668,6 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 71.12 196.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "61a5e82e-0eb1-42be-b6bb-c938aa0ddd17")
-		(property "Reference" "D13"
-			(at 72.39 199.39 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 67.31 207.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 66.04 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 76.2 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 78.74 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d97a5739-2e5f-42c5-9678-4f840ea5c0ad")
-		)
-		(pin "1"
-			(uuid "3f47bad8-a799-41f5-9893-6ff5c55599bb")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -15344,144 +14763,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 91.44 196.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "822408f0-e6a3-4c4b-9022-d60fd7aacc3e")
-		(property "Reference" "D20"
-			(at 91.44 194.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 93.98 198.1199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 86.36 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 96.52 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 99.06 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "345ce214-e89e-4442-9be5-78907d054893")
-		)
-		(pin "1"
-			(uuid "a761ffeb-6a6c-4e55-b85e-aadf30d5aed6")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 83.82 196.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "825d645f-b9b8-4b74-9977-5075e0c8e92c")
-		(property "Reference" "D17"
-			(at 82.55 203.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 80.01 207.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 78.74 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 88.9 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 91.44 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0aac342a-cd75-4de6-9039-08e6b3837c7a")
-		)
-		(pin "1"
-			(uuid "11f20165-de9f-4654-a437-4352669a73b1")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 167.64 110.49 0)
 		(unit 1)
@@ -15708,75 +14989,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 68.58 196.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8aae5f24-f72a-4d38-89d3-ae0daa4bdd8c")
-		(property "Reference" "D12"
-			(at 68.58 194.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 64.77 207.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 63.5 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 73.66 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 76.2 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "af363edd-fd20-4611-881b-25e88b8d15e2")
-		)
-		(pin "1"
-			(uuid "14bb9e41-e7a4-448d-b360-f476ec1263b4")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
 		(at 334.01 171.45 0)
 		(unit 1)
@@ -15937,7 +15149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 39.116 157.734 90)
 			(effects
 				(font
@@ -16068,77 +15280,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 88.9 196.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "91c73d8a-b9d8-428d-b4dd-f7e56f477528")
-		(property "Reference" "D19"
-			(at 87.63 203.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 85.09 207.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 83.82 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 93.98 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 96.52 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "dfa4d1c8-db41-4e31-9275-c129e340d7fa")
-		)
-		(pin "1"
-			(uuid "61061667-bf44-4dd7-8244-8da165190fda")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 69.85 99.06 0)
+		(at 77.47 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16147,7 +15290,7 @@
 		(fields_autoplaced yes)
 		(uuid "958d7e2c-17f0-42fc-ba7c-0e758a401422")
 		(property "Reference" "#PWR04"
-			(at 69.85 105.41 0)
+			(at 77.47 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16156,7 +15299,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 72.39 100.3299 0)
+			(at 80.01 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16165,7 +15308,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 99.06 0)
+			(at 77.47 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16174,7 +15317,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 99.06 0)
+			(at 77.47 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16183,7 +15326,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 69.85 99.06 0)
+			(at 77.47 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16195,7 +15338,7 @@
 			(uuid "7981c5d6-181e-4d80-adad-51c27f374392")
 		)
 		(instances
-			(project ""
+			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "#PWR04")
 					(unit 1)
@@ -16264,72 +15407,6 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 368.3 203.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99dc92f6-d06e-4e5e-b8d1-e34630d2e2f6")
-		(property "Reference" "#PWR041"
-			(at 368.3 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 368.3 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 368.3 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 368.3 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 368.3 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fe2c6e1c-ba38-43e4-a034-37dc569dfd78")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -17667,75 +16744,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 63.5 196.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "be9b899d-5679-4e70-afce-af3fa02e9067")
-		(property "Reference" "D10"
-			(at 63.5 194.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 59.69 207.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 58.42 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 68.58 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 71.12 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ad153f50-680e-4d83-a987-401906aa29b9")
-		)
-		(pin "1"
-			(uuid "5e9d149b-0469-4f69-ba87-640197a19a1b")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 200.66 189.23 0)
 		(unit 1)
@@ -18780,7 +17788,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 30.226 157.734 90)
 			(effects
 				(font
@@ -19105,75 +18113,6 @@
 			(project "WeighingScalePCB"
 				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
 					(reference "T2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:PESD3V3U1UL")
-		(at 86.36 196.85 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ecaaf14c-46a1-4dea-8ad2-9c9e84b0676a")
-		(property "Reference" "D18"
-			(at 85.09 194.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PESD3V3U1UL"
-			(at 82.55 207.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
-			(at 81.28 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UL.pdf"
-			(at 91.44 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ultra low capacitance unidirectional ESD protection diode, 3.3V, SOD-882"
-			(at 93.98 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3e4d30c9-1d1f-4602-b61a-181dfc6e85e9")
-		)
-		(pin "1"
-			(uuid "aac2b49a-8a21-4d97-b8ad-b0989c0f6cfb")
-		)
-		(instances
-			(project "WeighingScalePCB"
-				(path "/fb3b7c1c-1dc1-4229-b305-25c6e0b4dbdc"
-					(reference "D18")
 					(unit 1)
 				)
 			)
