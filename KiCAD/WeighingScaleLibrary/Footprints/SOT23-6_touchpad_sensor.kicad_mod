@@ -259,4 +259,15 @@
 		(uuid "8dd56dd2-174f-4a6d-8e1b-4b3719210605")
 	)
 	(embedded_fonts no)
+	(model "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/TTP223-BA6 (1)/TTP223-BA6.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 -90)
+		)
+	)
 )

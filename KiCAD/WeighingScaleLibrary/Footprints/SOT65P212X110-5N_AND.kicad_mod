@@ -246,4 +246,15 @@
 			(xyz -90 0 90)
 		)
 	)
+	(model "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_74LVC1G08GW/74LVC1G08GW/3D/74LVC1G08GW.stp"
+		(offset
+			(xyz 1.5 0.9 -0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
 )

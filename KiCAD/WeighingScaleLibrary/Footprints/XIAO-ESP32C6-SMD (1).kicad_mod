@@ -436,4 +436,15 @@
 		(uuid "313edcfe-ad25-4ea7-b786-d8290dfb479a")
 	)
 	(embedded_fonts no)
+	(model "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/seeedStudio_XIAO_Kicad/Seeed Studio XIAO ESP32-C6.step"
+		(offset
+			(xyz 6 -1.7 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
 )

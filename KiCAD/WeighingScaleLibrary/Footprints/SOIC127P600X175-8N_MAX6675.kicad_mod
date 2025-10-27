@@ -253,7 +253,7 @@
 		(uuid "d87b7689-fb60-4d42-a34d-8c7122ea825f")
 	)
 	(embedded_fonts no)
-	(model "MAX6675ISA+T.stp"
+	(model "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_MAX6675ISA+T/MAX6675ISA+T/3D/MAX6675ISA+T.stp"
 		(offset
 			(xyz 0 0 0)
 		)
