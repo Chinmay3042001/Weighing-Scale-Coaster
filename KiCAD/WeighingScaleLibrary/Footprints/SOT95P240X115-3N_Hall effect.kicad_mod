@@ -234,4 +234,15 @@
 			(xyz 0 0 0)
 		)
 	)
+	(model "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_APS11753KMDALX-9PL5/APS11753KMDALX-9PL5/3D/APS11753KMDALX-9PL5.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

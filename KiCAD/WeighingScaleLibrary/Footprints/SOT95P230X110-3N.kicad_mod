@@ -234,4 +234,15 @@
 			(xyz -90 0 -90)
 		)
 	)
+	(model "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_NX138AKR/NX138AKR.stp"
+		(offset
+			(xyz -2 -1.3 -1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
 )

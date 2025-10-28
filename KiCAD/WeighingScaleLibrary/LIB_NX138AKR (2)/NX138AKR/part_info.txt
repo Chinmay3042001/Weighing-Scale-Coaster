@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=NX138AKR
+PartCategory=MOSFET (N-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=3.1
+Released=2020-06-02 02:42:00
+Downloaded=2025-10-01 08:42:49
+3D=Y

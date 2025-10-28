@@ -1,0 +1,16 @@
+.NX138AKR :1 ;MOSFET 60V N-CH TENCH MOS
+SOT95P230X110-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN NX138AKR
+~!Mouser Part Number (771-NX138AKR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/NX138AKR?qs=1fQ7IOp4WrgZzhNlGoooaw%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (NX138AKR)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/NX138AK.pdf)
+~!Height (1.1mm)
+~!3D_Model (NX138AKR)
+NX138AKR
+1.1!U 2.1!U 3.1!U 
