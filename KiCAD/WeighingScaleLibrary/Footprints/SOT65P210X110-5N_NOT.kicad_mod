@@ -206,4 +206,15 @@
 			(xyz 0 0 0)
 		)
 	)
+	(model "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_SN74LVC1G04DCKR/SN74LVC1G04DCKR/3D/SN74LVC1G04DCKR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

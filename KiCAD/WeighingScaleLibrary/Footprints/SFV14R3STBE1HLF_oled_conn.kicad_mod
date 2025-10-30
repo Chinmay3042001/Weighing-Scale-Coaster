@@ -418,4 +418,15 @@
 			(xyz -90 -180 0)
 		)
 	)
+	(model "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_SFV14R-3STBE1HLF/SFV14R-3STBE1HLF/3D/SFV14R-3STBE1HLF.stp"
+		(offset
+			(xyz 5.45 -4.3 2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 180)
+		)
+	)
 )

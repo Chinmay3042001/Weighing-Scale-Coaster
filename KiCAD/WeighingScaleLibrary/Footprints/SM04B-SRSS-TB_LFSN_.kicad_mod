@@ -213,4 +213,15 @@
 			(xyz -90 0 0)
 		)
 	)
+	(model "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_JST_SM04B-SRSS-TB_LF__SN_/SM04B-SRSS-TB_LF__SN_/3D/SM04B-SRSS-TB_LF__SN_.stp"
+		(offset
+			(xyz 3 4 -0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
