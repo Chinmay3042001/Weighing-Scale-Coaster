@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=CAP1203-1-SN
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2019-08-30 11:13:33
+Downloaded=2025-12-08 09:51:34
+3D=Y

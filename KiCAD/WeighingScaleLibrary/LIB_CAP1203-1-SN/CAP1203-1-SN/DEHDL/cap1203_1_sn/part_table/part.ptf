@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CAP1203_1_SN'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "CAP1203-1-SN" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "579-CAP1203-1-SN", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/CAP1203-1-SN?qs=ZEMkBHnybRFgBmrULrHmuQ%3D%3D", "CAP1203-1-SN Microchip Technology, CAP1203 Capacitive Touch Sensor Capacitive 8-Pin SOIC", "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en566286", "1.75 mm"
+END_PART
+
+END.

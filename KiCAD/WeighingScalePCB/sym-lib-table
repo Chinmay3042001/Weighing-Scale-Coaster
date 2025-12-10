@@ -4,4 +4,5 @@
   (lib (name "MAX6675ISA+T")(type "KiCad")(uri "/home/chinmay/Projects/weighingscale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_MAX6675ISA+T/MAX6675ISA+T/KiCad/MAX6675ISA+T.kicad_sym")(options "")(descr ""))
   (lib (name "APS11753KMDALX-9PL5")(type "KiCad")(uri "/home/chinmay/Projects/weighingscale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_APS11753KMDALX-9PL5/APS11753KMDALX-9PL5/KiCad/APS11753KMDALX-9PL5.kicad_sym")(options "")(descr ""))
   (lib (name "NX138AKR Mosfet")(type "KiCad")(uri "/home/chinmay/Projects/weighingscale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_NX138AKR/NX138AKR/KiCad/NX138AKR.kicad_sym")(options "")(descr ""))
+  (lib (name "CAP1203-1-SN")(type "KiCad")(uri "/home/chinmay/Projects/weighing_scale/Weighing-Scale-Coaster/KiCAD/WeighingScaleLibrary/LIB_CAP1203-1-SN/CAP1203-1-SN/KiCad/CAP1203-1-SN.kicad_sym")(options "")(descr ""))
 )
