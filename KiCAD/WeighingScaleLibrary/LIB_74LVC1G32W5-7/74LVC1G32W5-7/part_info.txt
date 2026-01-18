@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=74LVC1G32W5-7
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=5.1
+Released=2022-02-13 11:58:35
+Downloaded=2026-01-04 09:43:20
+3D=Y

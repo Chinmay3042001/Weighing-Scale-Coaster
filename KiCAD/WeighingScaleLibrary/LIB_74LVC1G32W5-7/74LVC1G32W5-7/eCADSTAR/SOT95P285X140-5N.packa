@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "74LVC1G32W5-7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-06-06:36:20)
+    (mountForm default
+        (footprintRef "SOT95P285X140-5N")
+        (spec "System")
+    )
+)

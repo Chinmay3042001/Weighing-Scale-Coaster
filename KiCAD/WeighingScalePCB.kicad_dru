@@ -1,0 +1,72 @@
+(kicad_dru
+  (version 1)
+
+  (rule "Minimum Track Width"
+    (constraint track_width (min 0.1524mm))
+    (layer "F.Cu" "In1.Cu" "In2.Cu" "B.Cu")
+  )
+
+  (rule "Minimum Clearance"
+    (constraint clearance (min 0.1524mm))
+  )
+
+  (rule "Minimum Via Drill"
+    (constraint via_drill (min 0.3mm))
+  )
+
+  (rule "Minimum Via Diameter"
+    (constraint via_diameter (min 0.6mm))
+  )
+
+  (rule "Minimum Annular Ring"
+    (constraint annular_ring (min 0.15mm))
+  )
+
+  (rule "Copper to Board Edge"
+    (constraint edge_clearance (min 0.254mm))
+  )
+
+  (rule "Hole to Hole Clearance"
+    (constraint hole_clearance (min 0.254mm))
+  )
+
+  (rule "Solder Mask Expansion"
+    (constraint solder_mask_expansion (min 0.05mm))
+  )
+
+  (rule "Minimum Solder Mask Sliver"
+    (constraint solder_mask_sliver (min 0.1mm))
+  )
+
+  (rule "Silkscreen Line Width"
+    (constraint silk_line_width (min 0.15mm))
+  )
+
+  (rule "Silkscreen to Pad Clearance"
+    (constraint silk_clearance (min 0.1mm))
+  )
+
+  ;; ---------- NET CLASSES ----------
+
+  (net_class "Default"
+    (clearance 0.1524mm)
+    (track_width 0.1524mm)
+    (via_diameter 0.6mm)
+    (via_drill 0.3mm)
+  )
+
+  (net_class "Power"
+    (clearance 0.1524mm)
+    (track_width 0.8mm)
+    (via_diameter 0.8mm)
+    (via_drill 0.4mm)
+  )
+
+  (net_class "FineSignal"
+    (clearance 0.1524mm)
+    (track_width 0.1524mm)
+    (via_diameter 0.6mm)
+    (via_drill 0.3mm)
+  )
+)
+

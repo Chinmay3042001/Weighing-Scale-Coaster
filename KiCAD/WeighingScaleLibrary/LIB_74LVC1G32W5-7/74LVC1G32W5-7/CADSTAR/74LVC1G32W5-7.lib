@@ -1,0 +1,16 @@
+.74LVC1G32W5-7 :1 ;DiodesZetex 74LVC1G32W5-7, OR 2 Input OR, 1.65  5.5 V, 5-Pin SOT-25
+SOT95P285X140-5N
+*STM IC
+*NGS
+*PLB 1="A" 2="B" 3="GND" 4="Y" 5="VCC"
+*MXP 5
+*DFN 74LVC1G32W5-7
+~!Mouser Part Number (621-74LVC1G32W5-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/74LVC1G32W5-7?qs=8Dv1RiiPiVIE4kcULefPZw%3D%3D)
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (74LVC1G32W5-7)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/74LVC1G32.pdf)
+~!Height (1.4mm)
+~!3D_Model (74LVC1G32W5-7)
+"74LVC1G32W5-7"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

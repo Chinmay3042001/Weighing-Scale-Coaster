@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74LVC1G32W5_7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "74LVC1G32W5-7" (!) = "", "SOT95P285X140-5N", "SOT23 (5-Pin)", "621-74LVC1G32W5-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/74LVC1G32W5-7?qs=8Dv1RiiPiVIE4kcULefPZw%3D%3D", "DiodesZetex 74LVC1G32W5-7, OR 2 Input OR, 1.65  5.5 V, 5-Pin SOT-25", "https://www.diodes.com//assets/Datasheets/74LVC1G32.pdf", "1.4 mm"
+END_PART
+
+END.

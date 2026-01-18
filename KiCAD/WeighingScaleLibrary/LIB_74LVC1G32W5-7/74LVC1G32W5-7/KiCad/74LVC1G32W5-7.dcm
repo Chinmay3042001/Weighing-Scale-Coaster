@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G32W5-7
+D DiodesZetex 74LVC1G32W5-7, OR 2 Input OR, 1.65  5.5 V, 5-Pin SOT-25
+K
+F https://www.diodes.com//assets/Datasheets/74LVC1G32.pdf
+$ENDCMP
+#
+#End Doc Library
